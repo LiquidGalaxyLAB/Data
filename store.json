@@ -213,5 +213,26 @@
     "android_OS": "5.0",
     "version": "1.1",
     "content": "Analyze apple leaf samples to detect tree diseases and control pests.\n\nThe project aims to collect and display data about tree diseases and manage pests effectively using the Liquid Galaxy system.\n\nWith the data available in the app, users can send it to the Liquid Galaxy system for visualization on Google Earth. Additionally, users can create their own databases, cataloging terrains and samples. The app provides full control over all recorded information.\n\nInstructions for use:\n\n1. Grant location access to the app to enable faster and more accurate data collection.\n2. Capture a photo of the apple leaf using your mobile device.\n3. Alternatively, select an apple leaf photo from your gallery.\n4. Create a new terrain or select an existing one.\n5. Set the location of the apple tree within the chosen terrain.\n6. Print the collected data if needed.\n\nThis project began as part of Google Summer of Code 2022 with the Liquid Galaxy Organization, developed by Guillem Camats.\n\nLleida Liquid Galaxy LAB support: Pau Francino\nLiquid Galaxy Org Director: Andreu Ibañez\nApp released by Alejandro Illán Marcos."
-  }
+  },
+  {
+    "name": "Smart City Dashboard",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp",
+        "5.webp",
+        "6.webp"
+    ],
+    "base_url": "./apps/Smart_City_Dashboard/",
+    "file": "/app/Smart City Dashboard-1.1.0.apk",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Aug 14, 2023",
+    "android_OS": "7.0+",
+    "version": "1.1.0",
+    "content": "Visualize many available public data of various Smart Cities through Dashboards.\n App to visualize many available public data of various Smart Cities through Dashboards.\n It will also connect with Liquid Galaxy to show the data in Google Earth in bigger screens for better visualization.\n Features include: Dashboard for multiple cities, categorized dashboard data, smooth and appealing visuals, any csv and kml visualizer and integrated Google Map.\n The app is also available in 2 different themes and 7 different languages."
+    }
 ]
