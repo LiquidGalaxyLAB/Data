@@ -131,5 +131,27 @@
         "android_OS": "4.4+",
         "version": "1.0.1",
         "content": "Bring Your Own Pois\nThis app allows to create lists of POIS stored as drive documents and let the user to upload any URL of this Drive documents to a Physical Web Beacon."
+    },
+    {
+        "name": "Liquid Galaxy For Education",
+        "icon": "icon.webp",
+        "category": "Education",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp",
+            "6.webp",
+            "7.webp"
+        ],
+        "base_url": "./apps/Liquid_Galaxy_For_Education/",
+        "file": "/app/Liquid Galaxy For Education_1.7.apk",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Dec 28, 2019",
+        "android_OS": "4.3+",
+        "version": "1.7.0",
+        "content": "Liquid Galaxy for Education is a project which consists of bringing Liquid Galaxy to children by using Chromebooks as screens and a tablet as a controller. \nBy that this project aims to introduce children the benefits of Liquid Galaxy and a completely new learning method for subjects like Geography and History. \nThis application was originally started at 2018 by Aleks Samuilov, Albert Planes, Oscar Carrasco, Deniz and Ivan. \nIt has much more features that brings games to students. It has been continued and developed during GSOC 2019. \nSpecial thanks to Adrià Salamero, Blai Domingo, Eloi Palau, Marian Ionuts, Taha Skaf, Roger and Andrea for helping me to create content for the game."
     }
 ]
