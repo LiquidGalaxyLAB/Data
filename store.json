@@ -148,5 +148,28 @@
     "android_OS": "4.4W+",
     "version": "1.0.0",
     "content": "A image satellite visualizer for Liquid Galaxy\nLiquid Galaxy as a meaningful presentation tool has a lot of information that can be displayed for diverse purposes like an educational tool, or for a monitoring system. With that in mind, the idea of ​​the project is the real time visualization of satellite images that would be attached as layers of google earth, besides being able to have diverse information of the earth being graphically generated as storms, fires, masses of heat and water vapor, a synchronous earth visualization will allow for more complex interactions. From there, the entire application would be controlled through a script responsible for managing calls made to the satellite's external APIs (e.g. NASA API and Copernicus) that responses with the metadata necessary for the kml creation and a tablet application that would give the user control of which layers or information would like to be displayed and responsible for handling the API calls, manipulate KMLs and sending them to Liquid Galaxy through Bash scripts. The application’s front end will be developed with Flutter and the image selected by the user will be generated based on selected options."
+  },
+  {
+    "name": "Simple CMS",
+    "icon": "icon.webp",
+    "category": "Maps & Navigation",
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp",
+      "6.webp",
+      "7.webp",
+      "8.webp"
+    ],
+    "base_url": "./apps/Simple_CMS/",
+    "file": "/app/Simple CMS_1.0.apk",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Jul 26, 2021",
+    "android_OS": "8.0+",
+    "version": "1.0",
+    "content": "Simple CMS is a storyboards creation and management system for Liquid Galaxy.\nSimple CMS is a content management system for the creation and administration of storyboards in Liquid Galaxy, developed as part of Google Summer of Code 2020 by Diego Riveros, with Andreu Ibañez as mentor, and Marc Capdevila and Moisés Martínez as co-mentors.\nThe project Simple CMS is an android application that allows the creation of a storyboard with the following functionalities, that are going to be shown in the Liquid Galaxy:\n1. Location. Add a position.\n2. Movements. Add a movement or orbit.\n3. Balloon. Add a text, image and a video.\n4. Shape. Add two or more points that will make a shape. Also, it has an extrude option, that will fill up the space of the point to the ground.\nAfter creating a storyboard is feasible to save it locally or in google drive. Also, it is possible to import a storyboard from google drive.\nIt is important to mention that saving and importing storyboards are only available if you are logged in the application.\nOn the other hand, Simple CMS downloads community names, city, country and location of the different Google Developers community at Meetup.com.\nFinally, It is possible to do a tour of all the google developers community around the world."
   }
 ]
