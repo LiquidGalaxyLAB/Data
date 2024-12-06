@@ -44,6 +44,29 @@
         "content": "View satellites and ground stations information from the SatNOGS database.\nThe project aims to collect and show data from satellites and ground stations using the SatNOGS database and API.\nWith the data available into the app, is possible to send it to the Liquid Galaxy system to be shown into Google Earth.\nAll this information is included in the SatNOGS (Satellite Networked Open Ground Station) database.\nThe ground stations are antennas that capture transmissions from satellites. Using this network, SatNOGS created a database with all the information captured since its creation. We will use this database to get the information we need, since it is open and free. It contains information about the satellites, the data received in the communication, the protocols of transmission accepted and more.\nAn important step to take is configure the slave screens for refreshing, otherwise the logos and the info balloon will not be visible. Follow the steps below to activate it:\n1. With Google Earth opened, press CTRL+ALT+B on the keyboard or click on the VIEW tab on the tab bar and then Sidebar.\n2. Into the Sidebar, expand the KML Sync folder.\n3. Right click on the Solo KML folder and click on Properties.\n4. Go to the Refresh tab and change the Time-Based Refresh to: Periodically | 0hrs | 0mins | 2secs\n- The recommended secs if from 1 to 3 seconds.\n- Click on OK and close the side bar by following the first step.\n\nDone! Remember to do it for all slave screens so all of them will be reactive.\n\nThis project has been started as a Google Summer of Code 2022 project with the Liquid Galaxy Organization, developed by Michel Agarra Barros.\nLleida Liquid Galaxy LAB support: Pau Francino\nLiquid Galaxy Org Director: Andreu Ibañez\nApp released by Alejandro Illán Marcos"
     },
     {
+        "name": "Liquid Galaxy Controller",
+        "icon": "icon.webp",
+        "category": "Maps & Navigation",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp",
+            "6.webp",
+            "7.webp",
+            "8.webp"
+        ],
+        "base_url": "./apps/Liquid_Galaxy_Controller/",
+        "file": "/app/Liquid Galaxy Controller_1.2.3.apk",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Sep 8, 2017",
+        "android_OS": "4.4+",
+        "version": "1.2.3",
+        "content": "This app controls a Liquid Galaxy Installation.\nIt's an Android app that lets the user connect to one Liquid Galaxy system and send POIs and Tours. At the same time, the app also lets to create, update and delete POIs, Tours and Categories as well as launch external applications located in a external server."
+    },
+    {
         "name": "Laser Slides 2024",
         "icon": "icon.webp",
         "category": "Tools",
