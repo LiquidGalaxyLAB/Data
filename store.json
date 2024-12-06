@@ -108,5 +108,28 @@
         "android_OS": "7.1+",
         "version": "1.0.0",
         "content": "SpaceX API is used for data of all launch, starlink then visualises it on LG Rig.\nThis application harnesses the SpaceX API to access comprehensive data pertaining to all SpaceX launches, missions, and Starlink satellites deployments.\nIt serves the purpose of visualizing this data on a Liquid Galaxy Rig, effectively utilizing KML (Keyhole Markup Language) balloons to provide detailed information in a visually appealing manner.\nFurthermore, it offers real-time tracking of Starlink satellites, furnishing users with the latest positional information.\nThe development of this application represents a significant milestone achieved under the Google Summer of Code 2023 project, a collaborative initiative with the esteemed Liquid Galaxy organization.\nBy adopting the Flutter framework, the application seamlessly integrates a modern, cross-platform user interface.\nThe core functionality of this application is twofold:\n1. **SpaceX Data Visualization:**\n- **Launch Data:** The application retrieves and visualizes data on all SpaceX launches, including key details such as launch dates, payloads, and launch sites.\n- **Mission Information:** It also offers insights into various SpaceX missions, showcasing mission objectives, destinations, and progress.\n- **Starlink Satellites:** Data pertaining to Starlink satellite deployments, including orbital parameters, constellation status, and launch history, is elegantly presented.\n2. **Liquid Galaxy Integration:**\n- **KML Balloons:** Utilizing KML balloons, the application generates immersive visual representations of SpaceX data. These balloons display relevant information in a manner that enhances user understanding and engagement.\n- **Real-time Satellite Tracking:** A particularly noteworthy feature is the real-time tracking of Starlink satellites.\nUsers can monitor the precise location of these satellites as they traverse the Earth's orbit, thus gaining insight into the dynamic nature of satellite constellations.\n- **SSH Connectivity:** The application employs a secure SSH client to establish a connection with the Liquid Galaxy Rig.\nThis connection facilitates seamless data transfer and control, enabling users to interact with the Liquid Galaxy display effortlessly.\nBy leveraging the Flutter framework, the application ensures cross-device compatibility, thereby extending its reach to a broad spectrum of users.\nIts user-friendly interface enhances accessibility, making it an invaluable tool for space enthusiasts, researchers, and anyone interested in the SpaceX program.\nIn conclusion, this application represents a noteworthy achievement in the realm of space data visualization and interaction.\nIts successful development during the Google Summer of Code 2023 project for Liquid Galaxy reflects a commitment to innovation and technological advancement, furthering our understanding of SpaceX missions and Starlink satellite deployments while providing a seamless user experience on the Liquid Galaxy Rig.\n**Additional Info regarding data:**\nThis app only asks for credentials required to connect to LG and stores it locally using shared preferences along with selected theme data and language."
+    },
+    {
+        "name": "BYOP",
+        "icon": "icon.webp",
+        "category": "Auto & Vehicles",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp",
+            "6.webp",
+            "7.webp",
+            "8.webp"
+        ],
+        "base_url": "./apps/BYOP/",
+        "file": "/app/BYOP_1.0.1_APKPure.apk",
+        "pwa_link": "",
+        "type": "app",
+        "date": "August 25, 2016",
+        "android_OS": "4.4+",
+        "version": "1.0.1",
+        "content": "This app allows to create lists of POIS stored as drive documents and let the user to upload any URL of this Drive documents to a Physical Web Beacon."
     }
 ]
