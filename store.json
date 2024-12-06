@@ -234,5 +234,27 @@
     "android_OS": "7.0+",
     "version": "1.1.0",
     "content": "Visualize many available public data of various Smart Cities through Dashboards.\n App to visualize many available public data of various Smart Cities through Dashboards.\n It will also connect with Liquid Galaxy to show the data in Google Earth in bigger screens for better visualization.\n Features include: Dashboard for multiple cities, categorized dashboard data, smooth and appealing visuals, any csv and kml visualizer and integrated Google Map.\n The app is also available in 2 different themes and 7 different languages."
+    },
+    {
+        "name": "Gemini AI Touristic tool",
+        "icon": "icon.webp",
+        "category": "Travel & Local",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp",
+            "6.webp",
+            "7.webp"
+        ],
+        "base_url": "./apps/Gemini AI Touristic tool/",
+        "file": "/app",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Aug 13, 2024",
+        "android_OS": "8.0+",
+        "version": "1.0.12",
+        "content": "AI powered tourism app with multiple features.\n This AI-powered Flutter app makes it simple to explore tourism information.\n Connected to the Liquid Galaxy system, the app allows users to ask questions about tourist spots using a chat interface or voice commands. It provides personalized itineraries, recommends tourist places, and explains the history and significance of each location.\n The app offers easy-to-use prompts like \"What to Eat\" and \"Find Tourist Place,\" enabling users to quickly choose what interests them. For more specific needs, users can type their own questions in the chat.\n The app also supports multi-modal interactions, allowing users to engage through images, text, or voice-to-text, making it adaptable to different preferences.\n A standout feature is its integration with Liquid Galaxy, which offers an orbit and tour experience, visually showcasing the places users are interested in. This feature brings locations to life, providing a virtual tour that enhances the planning process.\n Whether users are looking for tourist place recommendations, local activities, or budget planning, this app is a comprehensive, user-friendly guide for all their travel needs."
     }
 ]
