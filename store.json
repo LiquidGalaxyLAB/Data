@@ -124,12 +124,12 @@
             "8.webp"
         ],
         "base_url": "./apps/BYOP/",
-        "file": "/app/BYOP_1.0.1_APKPure.apk",
+        "file": "/app/BYOP_1.0.1.apk",
         "pwa_link": "",
         "type": "app",
         "date": "August 25, 2016",
         "android_OS": "4.4+",
         "version": "1.0.1",
-        "content": "This app allows to create lists of POIS stored as drive documents and let the user to upload any URL of this Drive documents to a Physical Web Beacon."
+        "content": "Bring Your Own Pois\nThis app allows to create lists of POIS stored as drive documents and let the user to upload any URL of this Drive documents to a Physical Web Beacon."
     }
 ]
