@@ -154,5 +154,27 @@
         "android_OS": "8.0+",
         "version": "1.0",
         "content": "Simple CMS is a storyboards creation and management system for Liquid Galaxy.\nSimple CMS is a content management system for the creation and administration of storyboards in Liquid Galaxy, developed as part of Google Summer of Code 2020 by Diego Riveros, with Andreu Ibañez as mentor, and Marc Capdevila and Moisés Martínez as co-mentors.\nThe project Simple CMS is an android application that allows the creation of a storyboard with the following functionalities, that are going to be shown in the Liquid Galaxy:\n1. Location. Add a position.\n2. Movements. Add a movement or orbit.\n3. Balloon. Add a text, image and a video.\n4. Shape. Add two or more points that will make a shape. Also, it has an extrude option, that will fill up the space of the point to the ground.\nAfter creating a storyboard is feasible to save it locally or in google drive. Also, it is possible to import a storyboard from google drive.\nIt is important to mention that saving and importing storyboards are only available if you are logged in the application.\nOn the other hand, Simple CMS downloads community names, city, country and location of the different Google Developers community at Meetup.com.\nFinally, It is possible to do a tour of all the google developers community around the world."
+    },
+    {
+        "name": "Liquid Galaxy For Education",
+        "icon": "icon.webp",
+        "category": "Education",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp",
+            "6.webp",
+            "7.webp"
+        ],
+        "base_url": "./apps/Liquid_Galaxy_For_Education/",
+        "file": "/app/Liquid Galaxy For Education_1.7.apk",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Dec 28, 2019",
+        "android_OS": "4.3+",
+        "version": "1.7.0",
+        "content": "Liquid Galaxy for Education is a project which consists of bringing Liquid Galaxy to children by using Chromebooks as screens and a tablet as a controller. \nBy that this project aims to introduce children the benefits of Liquid Galaxy and a completely new learning method for subjects like Geography and History. \nThis application was originally started at 2018 by Aleks Samuilov, Albert Planes, Oscar Carrasco, Deniz and Ivan. \nIt has much more features that brings games to students. It has been continued and developed during GSOC 2019. \nSpecial thanks to Adrià Salamero, Blai Domingo, Eloi Palau, Marian Ionuts, Taha Skaf, Roger and Andrea for helping me to create content for the game."
     }
 ]
