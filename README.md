@@ -93,7 +93,7 @@ Here is an example of how an app entry should look in the `store.json` file:
         "7.webp",
         "8.webp"
     ],
-    "base_url": "./apps/La_Palma_VolTrac/",
+    "base_url": "/apps/La_Palma_VolTrac/",
     "file": "/app/La Palma Volcano Tracking Tool_1.0.0.apk",
     "pwa_link": "",
     "type": "app",
