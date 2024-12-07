@@ -465,7 +465,28 @@
     "android_OS": "7.0+",
     "version": "1.0.0",
     "content": "Improve the control of the LG with voice commands, body poses, and hand gestures.\nThe LG Gesture & Voice Control project is a comprehensive initiative that seeks to enhance the Liquid Galaxy Rig's control capabilities by incorporating advanced interaction methods, such as voice commands, body poses, and hand gestures. Developed as a Flutter application, this project harnesses cutting-edge technologies, including Mediapipe, ML Kit, and Voice Recognition, to revolutionize how users interact with the Liquid Galaxy Rig.\nThe Liquid Galaxy Rig is a sophisticated multi-screen system that offers a captivating panoramic viewing experience. Traditionally, controlling such a complex system has often relied on conventional input methods. However, the LG Gesture & Voice Control project challenges this norm by introducing innovative and intuitive modes of interaction.\nCreated using Flutter, its capabilities enable the creation of a seamless and visually appealing interface that serves as the foundation for gesture and voice control functionalities. This cross-platform nature ensures that the benefits of this project can be enjoyed across multiple devices and operating systems.\nMediapipe, a robust open-source framework developed by Google, plays a pivotal role in this project. It provides a rich set of tools for building applications that involve perception-based tasks, including gesture and pose recognition. By integrating Mediapipe's capabilities, the LG Gesture & Voice Control project can accurately track hand gestures and body poses, translating them into actionable commands for the Liquid Galaxy Rig. This allows users to manipulate and navigate the system using natural movements.\nThe project bridges the gap between humans and machines by seamlessly blending gesture recognition, voice commands, and intuitive user interfaces. Users can easily navigate the Liquid Galaxy Rig, simplifying complex tasks and amplifying the system's accessibility.\nThe potential applications of the LG Gesture & Voice Control project are diverse. From educational presentations and interactive exhibitions to artistic displays and immersive entertainment experiences, the project opens doors to new modes of engagement.\nLG Gesture & Voice Control underscores the dynamic nature of human-computer interaction. The fusion of Flutter, Mediapipe, ML Kit, and voice recognition technology showcases modern development tools' capabilities and paves the way for future advancements in user experience design."
+},
+{
+    "name": "GDG Community Visualization",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp",
+        "5.webp"
+    ],
+    "base_url": "/apps/GDG_Community_Visualization/",
+    "file": "/app/",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Aug 13, 2023",
+    "android_OS": "9.0+",
+    "version": "1.0.0",
+    "content": "Google Developer Groups Explorer is a comprehensive and user-friendly app designed to provide developers and technology enthusiasts with an enriched experience of the Google Developer Groups community. This app is a one-stop solution for accessing details about both new and old Google Developer Groups, their events, notifications, accessibility options, and interactive features.\nKey Features:\nNew and Old GDG Information: Stay updated with the latest and historical information about Google Developer Groups. Discover new groups and explore the history of established ones.\nUpcoming and Past Events: Access information about upcoming GDG events and dive into details of past events. Stay informed about the topics, speakers, and schedules.\nEvent Notifications: Set up event notifications to receive timely alerts for upcoming GDG events. Never miss out on exciting opportunities to learn and network.\nDual Theme Options: Choose between a dark and light theme to ensure a comfortable viewing experience based on your preferences and lighting conditions.\nText-to-Speech Accessibility: Enable the Text-to-Speech feature for enhanced accessibility. This feature ensures that users with reading difficulties can conveniently listen to the content.\nRecent Events Archive: Easily access details of events that have concluded within the past 7 days.\nFresh Data Updates: Users can update the app's database by clearing outdated data and fetching the latest information from the official GDG website, ensuring accurate and current details.\nGoogle Earth Integration: Visualize GDG groups on Google Earth for an immersive experience. Interact with the map to access additional group-specific information."
 }
+
 
 
     
