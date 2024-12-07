@@ -341,5 +341,23 @@
         "android_OS": "11+",
         "version": "1.1.0",
         "content": "The LiquidArt AI is a mobile application for the use of APIs that generate art.\n The LiquidArt AI is a mobile application developed in Flutter that allows users to generate images using a text or an audio to text prompt and a selection of APIs, and show them on a multi-screen system for displaying information.\n The application creates a server to connect to the Liquid Galaxy system to show the images on the screen."
+    },
+    {
+        "name": "Satellite Collision",
+        "icon": "icon.webp",
+        "category": "Education",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "base_url": "./apps/Satellite_Collision/",
+        "file": "/app/",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Aug 21, 2023",
+        "android_OS": "7.0+",
+        "version": "1.0.0",
+        "content": "App that gives you the access to know if two satellites will collide or not.\n The Satellite Collision Prevision mobile application is an app that gives you the access to know if two satellites will collide or not.\n When the app is connected to the Liquid Galaxy, it gives you access to see where the orbits of the satellites selected, where the collision will be if the artificial intelligence model says that will collide, and the area affected due this collision.\n The app also has an option to view the trajectory of multiple satellites."
     }
 ]
