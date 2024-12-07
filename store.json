@@ -485,5 +485,25 @@
     "android_OS": "7.0+",
     "version": "1.0",
     "content": "This is an Android application that visualizes satellites and ground stations available on the TinyGS server. It provides geographical animations of satellites and ground stations on a Liquid Galaxy setup. Users need a running Liquid Galaxy system, an Android tablet, and an internet connection to use this tool.\n\n**Key Features:**\n- **Satellite**: Visualize a collection of satellites moving around the Earth.\n- **Ground Station**: Display TinyGS ground stations powered by LoRa boards and ground wave antennas.\n- **Packets**: Showcase signals received from satellites via ground stations or TinyGS.\n\nThis project was developed as part of Google Summer of Code 2022 by Goutam Verma, with Merul Diman as mentor and Andreu Ibañez, Mario Ezquerro as co-mentors.\n\n**Lleida Liquid Galaxy LAB support:** Pau Francino\n**Liquid Galaxy Org Director:** Andreu Ibañez\nApp released by Alejandro Illán Marcos."
-}   
+},
+{
+    "name": "GDG Community Visualization",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp",
+        "5.webp"
+    ],
+    "base_url": "/apps/GDG_Community_Visualization/",
+    "file": "/app/",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Aug 13, 2023",
+    "android_OS": "9.0+",
+    "version": "1.0.0",
+    "content": "Google Developer Groups Explorer is a comprehensive and user-friendly app designed to provide developers and technology enthusiasts with an enriched experience of the Google Developer Groups community. This app is a one-stop solution for accessing details about both new and old Google Developer Groups, their events, notifications, accessibility options, and interactive features.\nKey Features:\nNew and Old GDG Information: Stay updated with the latest and historical information about Google Developer Groups. Discover new groups and explore the history of established ones.\nUpcoming and Past Events: Access information about upcoming GDG events and dive into details of past events. Stay informed about the topics, speakers, and schedules.\nEvent Notifications: Set up event notifications to receive timely alerts for upcoming GDG events. Never miss out on exciting opportunities to learn and network.\nDual Theme Options: Choose between a dark and light theme to ensure a comfortable viewing experience based on your preferences and lighting conditions.\nText-to-Speech Accessibility: Enable the Text-to-Speech feature for enhanced accessibility. This feature ensures that users with reading difficulties can conveniently listen to the content.\nRecent Events Archive: Easily access details of events that have concluded within the past 7 days.\nFresh Data Updates: Users can update the app's database by clearing outdated data and fetching the latest information from the official GDG website, ensuring accurate and current details.\nGoogle Earth Integration: Visualize GDG groups on Google Earth for an immersive experience. Interact with the map to access additional group-specific information."
+}
 ]
