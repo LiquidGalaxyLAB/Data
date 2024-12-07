@@ -343,6 +343,24 @@
         "content": "The LiquidArt AI is a mobile application for the use of APIs that generate art.\n The LiquidArt AI is a mobile application developed in Flutter that allows users to generate images using a text or an audio to text prompt and a selection of APIs, and show them on a multi-screen system for displaying information.\n The application creates a server to connect to the Liquid Galaxy system to show the images on the screen."
     },
     {
+        "name": "Satellite Collision",
+        "icon": "icon.webp",
+        "category": "Education",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "base_url": "./apps/Satellite_Collision/",
+        "file": "/app/",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Aug 21, 2023",
+        "android_OS": "7.0+",
+        "version": "1.0.0",
+        "content": "App that gives you the access to know if two satellites will collide or not.\n The Satellite Collision Prevision mobile application is an app that gives you the access to know if two satellites will collide or not.\n When the app is connected to the Liquid Galaxy, it gives you access to see where the orbits of the satellites selected, where the collision will be if the artificial intelligence model says that will collide, and the area affected due this collision.\n The app also has an option to view the trajectory of multiple satellites."
+    },
+       {
     "name": "BIM LG Visualizer",
     "icon": "icon.webp",
     "category": "Education",
@@ -359,7 +377,7 @@
     "android_OS": "4.4W+",
     "version": "1.0.0",
     "content": "View BIM 3D models and metadata on a Liquid Galaxy RIG.\nBIM Liquid Galaxy Visualizer is a tool developed for the Google Summer of Code 2022 alongside the Liquid Galaxy Organization.\nThe idea behind this tool is to visualize BIM 3D models on the Liquid Galaxy RIG system using a mobile device.\nUsers can open their own uploaded 3D models or use the demo models.\nWhen a model is opened into the galaxy, a controller is displayed with transform movements (rotation, translation, and scale).\nThis project was started as a Google Summer of Code 2022 project with the Liquid Galaxy Organization, developed by Vinicius Cavalcanti.\n\nLleida Liquid Galaxy LAB support: Pau Francino\nLiquid Galaxy Org Director: Andreu Ibañez\nApp released by Alejandro Illán Marcos."
-},
+    },
     {
     "name": "RAS",
     "icon": "icon.webp",
@@ -383,5 +401,4 @@
     "version": "1.0.1",
     "content": "An app to help with the reforestation of degraded areas by drone or manually.\nThe Reforestation Assistant & Simulator is an Open Source app designed to assist in reforestation missions on degraded areas of the planet. The project consists of an Android app where users can plan reforesting missions by defining areas of seeding, specific seed/tree locations, drone landing points, fly zones, and other useful metrics.\nAll the gathered information can be dynamically displayed on the Liquid Galaxy cluster using KMLs and on the app itself with the help of charts, maps, and text, providing an immersive overview of the project.\nThis project was started as a Google Summer of Code 2021 project with the Liquid Galaxy Organization alongside the Dronecoria team, developed by Brazilian student Karine Pistili.\n\nLiquid Galaxy Org Director: Andreu Ibañez\nApp released by Alejandro Illán Marcos."
 }
- 
 ]
