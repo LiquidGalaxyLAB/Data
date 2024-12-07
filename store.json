@@ -525,5 +525,25 @@
     "android_OS": "6.0+",
     "version": "1.0.1",
     "content": "Track satellites, orbit, and control Arduino pointer.\nStay connected to the celestial realm with STEAM Celestial Satellite Tracker. This app offers a simple and engaging way to explore satellite orbits and interact with space technology.\nVisualize the paths of satellites orbiting Earth using our easy-to-use interface. This app gives you access to real-time information. With a few taps, project a satellite's trajectory on a Liquid Galaxy rig for a unique visual experience.\nConnect your mobile device to an Arduino-powered pointer via Bluetooth. Experience the thrill of controlling a 3D model that mimics the movement of a satellite. Send data to the pointer and see it respond in real time, showing you the satellite's direction. This dynamic interaction provides an immersive experience that bridges the gap between the digital and physical realms.\nKey Features:\n*Visualize satellite orbits on a Liquid Galaxy rig\n*Access real-time satellite data.\n*Connect and control an Arduino-powered pointer.\nDownload STEAM Celestial Satellite Tracker today and embark on a journey of space exploration from the palm of your hand."
+},
+{
+    "name": "Liquid Galaxy Basic Controller",
+    "icon": "icon.webp",
+    "category": "Tools",
+    "carousel_assets": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp",
+        "5.webp"
+    ],
+    "base_url": "/apps/Liquid_Galaxy_Basic_Controller",
+    "file": "/app/",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Jun 17, 2024",
+    "android_OS": "5.0+",
+    "version": "1.0.0",
+    "content": "Connect to LG screens and control them: Reboot, go home, orbit and display city.\nThe LG Connection App manages Liquid Galaxy screens. Users can reboot screens, navigate to home cities, initiate orbit actions, and clear KMLs. It also prints an HTML bubble on a 3 LG screen setup, displaying the city name and user's name. The app includes a straightforward welcome screen, connection settings, and a service screen with buttons for executing commands."
 }
 ]
