@@ -424,6 +424,27 @@
     "android_OS": "8.0+",
     "version": "1.0",
     "content": "Display space-related content on your Liquid Galaxy Platform.\nOrbit Satellite Visualizer is part of a Google Summer of Code 2021 project, created in collaboration with the Liquid Galaxy Lab. This app is designed to support projects that use the Liquid Galaxy platform.\nThe app allows users to explore live satellite data by inputting the Satellite Catalog Number (SATCAT or SCN) and view fixed constellations such as Iridium or Starlink. It also includes a database of satellite orbits, a sample rocket trajectory, and key spaceports around the world.\n\nLiquid Galaxy Org Director: Andreu Ibañez\nApp released by Alejandro Illán Marcos."
+},
+    {
+    "name": "Arduino Controller App",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp",
+        "5.webp",
+        "6.webp"
+    ],
+    "base_url": "./apps/Arduino Controller App/",
+    "file": "/app/",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Aug 10, 2022",
+    "android_OS": "4.3+",
+    "version": "1.0.0",
+    "content": "This app is used to personalize navigation with some developed controllers.\nThe Arduino Controller App has a friendly and intuitive interface, with simple commands and connections to send data to controllers. Users can change the default navigation list of controls, create personalized navigation lists with favorite places, modify the tour time during the tour, and start the WiFi connection between the controls and Liquid Galaxy.\nThe app also provides the ability to update network data and includes an information page about GSoC, the Liquid Galaxy community, and the project collaborators.\n\nLiquid Galaxy Org Director: Andreu Ibañez\nApp released by Alejandro Illán Marcos."
 }
 
 
