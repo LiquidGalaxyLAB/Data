@@ -359,5 +359,29 @@
     "android_OS": "4.4W+",
     "version": "1.0.0",
     "content": "View BIM 3D models and metadata on a Liquid Galaxy RIG.\nBIM Liquid Galaxy Visualizer is a tool developed for the Google Summer of Code 2022 alongside the Liquid Galaxy Organization.\nThe idea behind this tool is to visualize BIM 3D models on the Liquid Galaxy RIG system using a mobile device.\nUsers can open their own uploaded 3D models or use the demo models.\nWhen a model is opened into the galaxy, a controller is displayed with transform movements (rotation, translation, and scale).\nThis project was started as a Google Summer of Code 2022 project with the Liquid Galaxy Organization, developed by Vinicius Cavalcanti.\n\nLleida Liquid Galaxy LAB support: Pau Francino\nLiquid Galaxy Org Director: Andreu Ibañez\nApp released by Alejandro Illán Marcos."
+},
+    {
+    "name": "RAS",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp",
+        "5.webp",
+        "6.webp",
+        "7.webp",
+        "8.webp"
+    ],
+    "base_url": "./apps/RAS/",
+    "file": "/app/",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Sep 2, 2022",
+    "android_OS": "4.4W+",
+    "version": "1.0.1",
+    "content": "An app to help with the reforestation of degraded areas by drone or manually.\nThe Reforestation Assistant & Simulator is an Open Source app designed to assist in reforestation missions on degraded areas of the planet. The project consists of an Android app where users can plan reforesting missions by defining areas of seeding, specific seed/tree locations, drone landing points, fly zones, and other useful metrics.\nAll the gathered information can be dynamically displayed on the Liquid Galaxy cluster using KMLs and on the app itself with the help of charts, maps, and text, providing an immersive overview of the project.\nThis project was started as a Google Summer of Code 2021 project with the Liquid Galaxy Organization alongside the Dronecoria team, developed by Brazilian student Karine Pistili.\n\nLiquid Galaxy Org Director: Andreu Ibañez\nApp released by Alejandro Illán Marcos."
 }
+ 
 ]
