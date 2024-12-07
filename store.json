@@ -563,7 +563,7 @@
     "date": "Sep 11, 2022",
     "android_OS": "4.4W+",
     "version": "1.0.1",
-    "content": "Ga,laxy Asteroids game manager and controller.\nThe Asteroids Liquid Galaxy Retro Gaming is an app created with the intention of making the management of the Asteroids game in the Liquid Galaxy easier for any user. By simply installing the Asteroids and the ALGRG server on your Liquid Galaxy master you can quickly launch and stop the game on all screens and also get access to a controller!"
+    "content": "Galaxy Asteroids game manager and controller.\nThe Asteroids Liquid Galaxy Retro Gaming is an app created with the intention of making the management of the Asteroids game in the Liquid Galaxy easier for any user. By simply installing the Asteroids and the ALGRG server on your Liquid Galaxy master you can quickly launch and stop the game on all screens and also get access to a controller!"
 },
 {
     "name": "LG Space Chess",
@@ -575,7 +575,7 @@
         "3.webp",
         "4.webp",
         "5.webp",
-	"6.webp"
+	    "6.webp"
     ],
     "base_url": "/apps/LG_Space_Chess/",
     "file": "/app/",
@@ -585,5 +585,23 @@
     "android_OS": "4.4+",
     "version": "1.0.0",
     "content": "Play chess with your community against a strong AI located in a satellite.\nA Newspace-related visualization project in collaboration with Hydra-Space & Hybridium.\nThe basic idea is to use the Liquid Galaxy cluster to visualize a world chess game that will happen with people worldwide and through satellite communications, a world's first !!!\nTwo teams, the Earth (you) and the Space (a strong AI) Every day the Earth makes, at least, one move, the most common move among you all, so play as a community and not as an individual.\nOnce the Earth has made a move, wait for Space.\nThe satellite may last a bit to answer, renember that the satellite must connect with the ground station, so you may not see the move in hours.\nWe also provide an individual gamemode, so you can play in the meantime.\nDo not forget about the real time satellite tracking!\nThis project has been started as a Google Summer of Code 2022 project with the Liquid Galaxy Organization alongside HydraSpace and Hybridium., developed by Pablo Sanchidrian.\nLleida Liquid Galaxy LAB support: Pau Francino.\nLiquid Galaxy Org Director: Andreu Ibañez\nApp released by Alejandro Illán Marcos"
+}, 
+{
+    "name": "HAPIS",
+    "icon": "icon.webp",
+    "category": "Social",
+    "carousel_assets": [
+        "1.webp",
+        "2.webp",
+        "3.webp"
+    ],
+    "base_url": "/apps/HAPIS/",
+    "file": "/app/",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Jul 26, 2022",
+    "android_OS": "6.0+",
+    "version": "1.1.0",
+    "content": "Homeless Aid Panoramic Interactive System\nThis app is a social net to contact people with homeless and help them"
 }
 ]
