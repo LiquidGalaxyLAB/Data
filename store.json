@@ -321,5 +321,25 @@
         "android_OS": "4.4W+",
         "version": "1.0.0",
         "content": "ARCA is a data visualization app for the Liquid Galaxy.\n ARCA is a dashboard application that allows better control of their fields, to all farmers who want to take their business to a more technological environment.\n In the dashboard, the farmer can visualize information of their robots, its battery, the status, images… \n The application is done with Flutter/Dart.\n You can connect the application to the Liquid Galaxy and see all the information there, also, you can send all the important information to the Liquid Galaxy rig and see your field, the robot information you want to see, images of the status of the trees and the path your robots are making through the land."
+    },
+    {
+        "name": "LiquidArt AI",
+        "icon": "icon.webp",
+        "category": "Education",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp"
+        ],
+        "base_url": "./apps/LiquidArt_AI/",
+        "file": "/app/",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Aug 22, 2023",
+        "android_OS": "11+",
+        "version": "1.1.0",
+        "content": "The LiquidArt AI is a mobile application for the use of APIs that generate art.\n The LiquidArt AI is a mobile application developed in Flutter that allows users to generate images using a text or an audio to text prompt and a selection of APIs, and show them on a multi-screen system for displaying information.\n The application creates a server to connect to the Liquid Galaxy system to show the images on the screen."
     }
 ]
