@@ -505,5 +505,25 @@
     "android_OS": "9.0+",
     "version": "1.0.0",
     "content": "Google Developer Groups Explorer is a comprehensive and user-friendly app designed to provide developers and technology enthusiasts with an enriched experience of the Google Developer Groups community. This app is a one-stop solution for accessing details about both new and old Google Developer Groups, their events, notifications, accessibility options, and interactive features.\nKey Features:\nNew and Old GDG Information: Stay updated with the latest and historical information about Google Developer Groups. Discover new groups and explore the history of established ones.\nUpcoming and Past Events: Access information about upcoming GDG events and dive into details of past events. Stay informed about the topics, speakers, and schedules.\nEvent Notifications: Set up event notifications to receive timely alerts for upcoming GDG events. Never miss out on exciting opportunities to learn and network.\nDual Theme Options: Choose between a dark and light theme to ensure a comfortable viewing experience based on your preferences and lighting conditions.\nText-to-Speech Accessibility: Enable the Text-to-Speech feature for enhanced accessibility. This feature ensures that users with reading difficulties can conveniently listen to the content.\nRecent Events Archive: Easily access details of events that have concluded within the past 7 days.\nFresh Data Updates: Users can update the app's database by clearing outdated data and fetching the latest information from the official GDG website, ensuring accurate and current details.\nGoogle Earth Integration: Visualize GDG groups on Google Earth for an immersive experience. Interact with the map to access additional group-specific information."
+},
+{
+    "name": "Celestial Satellite Tracker",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp",
+        "5.webp"
+    ],
+    "base_url": "/apps/Celestial_Satellite_Tracker",
+    "file": "/app/",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Aug 18, 2023",
+    "android_OS": "6.0+",
+    "version": "1.0.1",
+    "content": "Track satellites, orbit, and control Arduino pointer.\nStay connected to the celestial realm with STEAM Celestial Satellite Tracker. This app offers a simple and engaging way to explore satellite orbits and interact with space technology.\nVisualize the paths of satellites orbiting Earth using our easy-to-use interface. This app gives you access to real-time information. With a few taps, project a satellite's trajectory on a Liquid Galaxy rig for a unique visual experience.\nConnect your mobile device to an Arduino-powered pointer via Bluetooth. Experience the thrill of controlling a 3D model that mimics the movement of a satellite. Send data to the pointer and see it respond in real time, showing you the satellite's direction. This dynamic interaction provides an immersive experience that bridges the gap between the digital and physical realms.\nKey Features:\n*Visualize satellite orbits on a Liquid Galaxy rig\n*Access real-time satellite data.\n*Connect and control an Arduino-powered pointer.\nDownload STEAM Celestial Satellite Tracker today and embark on a journey of space exploration from the palm of your hand."
 }
 ]
