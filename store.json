@@ -445,6 +445,26 @@
     "android_OS": "4.3+",
     "version": "1.0.0",
     "content": "This app is used to personalize navigation with some developed controllers.\nThe Arduino Controller App has a friendly and intuitive interface, with simple commands and connections to send data to controllers. Users can change the default navigation list of controls, create personalized navigation lists with favorite places, modify the tour time during the tour, and start the WiFi connection between the controls and Liquid Galaxy.\nThe app also provides the ability to update network data and includes an information page about GSoC, the Liquid Galaxy community, and the project collaborators.\n\nLiquid Galaxy Org Director: Andreu Ibañez\nApp released by Alejandro Illán Marcos."
+},
+{
+    "name": "LG Gesture and Voice control",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp",
+        "5.webp"
+    ],
+    "base_url": "./apps/LG_Gesture_and_Voice_control/",
+    "file": "/app/",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Aug 24, 2023",
+    "android_OS": "7.0+",
+    "version": "1.0.0",
+    "content": "Improve the control of the LG with voice commands, body poses, and hand gestures.\nThe LG Gesture & Voice Control project is a comprehensive initiative that seeks to enhance the Liquid Galaxy Rig's control capabilities by incorporating advanced interaction methods, such as voice commands, body poses, and hand gestures. Developed as a Flutter application, this project harnesses cutting-edge technologies, including Mediapipe, ML Kit, and Voice Recognition, to revolutionize how users interact with the Liquid Galaxy Rig.\nThe Liquid Galaxy Rig is a sophisticated multi-screen system that offers a captivating panoramic viewing experience. Traditionally, controlling such a complex system has often relied on conventional input methods. However, the LG Gesture & Voice Control project challenges this norm by introducing innovative and intuitive modes of interaction.\nCreated using Flutter, its capabilities enable the creation of a seamless and visually appealing interface that serves as the foundation for gesture and voice control functionalities. This cross-platform nature ensures that the benefits of this project can be enjoyed across multiple devices and operating systems.\nMediapipe, a robust open-source framework developed by Google, plays a pivotal role in this project. It provides a rich set of tools for building applications that involve perception-based tasks, including gesture and pose recognition. By integrating Mediapipe's capabilities, the LG Gesture & Voice Control project can accurately track hand gestures and body poses, translating them into actionable commands for the Liquid Galaxy Rig. This allows users to manipulate and navigate the system using natural movements.\nThe project bridges the gap between humans and machines by seamlessly blending gesture recognition, voice commands, and intuitive user interfaces. Users can easily navigate the Liquid Galaxy Rig, simplifying complex tasks and amplifying the system's accessibility.\nThe potential applications of the LG Gesture & Voice Control project are diverse. From educational presentations and interactive exhibitions to artistic displays and immersive entertainment experiences, the project opens doors to new modes of engagement.\nLG Gesture & Voice Control underscores the dynamic nature of human-computer interaction. The fusion of Flutter, Mediapipe, ML Kit, and voice recognition technology showcases modern development tools' capabilities and paves the way for future advancements in user experience design."
 }
 
 
