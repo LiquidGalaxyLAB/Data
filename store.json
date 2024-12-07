@@ -281,5 +281,25 @@
         "android_OS": "6.0+",
         "version": "2.0.0",
         "content": "Located Voice CMS for Liquid Galaxy\nLocated Voice CMS is an Android app that lets the user connect to a Liquid Galaxy system and send POIs and Tours.\nAt the same time, the app also lets to create, update and delete POIs, Tours, and Categories.\nUse various tools to control your Liquid Galaxy System.\n\nAccess the latest features:\n\n1. Artificial Intelligence Voice: Listen to pre-recorded AI-generated voices describing the POIs stored on the cloud.\n\n2. Artificial Intelligence Context: Connect to the AI server and generate your own real-time audio via Suno's Bark Generative Audio AI Model.\nTo do this, just run the following commands on your server:\n\na. Pull the docker image:\n\ndocker pull vedantkingh/bark2\n\nb. To run on CPU:\n\ndocker run vedantkingh/bark2\n\nTo run on GPU:\n\ndocker run --gpus all vedantkingh/bark2\n\n3. Category Sounds: Feel the POIs ambience around you with immersive sounds to your categories.\nYou can also add, edit and delete the category sounds.\n\n4. Context Sensing: With the Nearby Places feature, you can now generate nearby places out of thin air to visit around a certain POI.\nBest experienced when coupled with Artificial Intelligence Context.\n\nCheck out the GitHub repository of Located Voice CMS for more information: https://github.com/vedantkingh/Located-Voice-CMS"
+    },
+    {
+        "name": "Liquid Galaxy Retro Gaming",
+        "icon": "icon.webp",
+        "category": "Education",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp"
+        ],
+        "base_url": "./apps/Liquid_Galaxy_Retro_Gaming/",
+        "file": "/app",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Sep 9, 2021",
+        "android_OS": "4.4+",
+        "version": "1.0.0",
+        "content":"A game manager for the games developed for the Liquid Galaxy\n\nThe Liquid Galaxy Retro Gaming is an app created with the intention of making the management of games in the Liquid Galaxy easier for any user. By simply installing the games and the LGRG server on your Liquid Galaxy master you can quickly launch and stop games on all screens and also get access to a specific controller for the chosen game and a QR code for other players to easily access the controller as well! More information about the installation of the games and the LGRG server can be found in the github repository which can be found by clicking the info icon on the top right of the app and then the github button on the app bar.\n\nThis project was developed for the Google Summer of Code 2021 by brazilian student Leonardo Coelho Ruas in collaboration with the Liquid Galaxy Organization.\n\n"
     }
 ]
