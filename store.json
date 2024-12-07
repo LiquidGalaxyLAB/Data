@@ -281,5 +281,25 @@
         "android_OS": "6.0+",
         "version": "2.0.0",
         "content": "Located Voice CMS for Liquid Galaxy\nLocated Voice CMS is an Android app that lets the user connect to a Liquid Galaxy system and send POIs and Tours.\nAt the same time, the app also lets to create, update and delete POIs, Tours, and Categories.\nUse various tools to control your Liquid Galaxy System.\n\nAccess the latest features:\n\n1. Artificial Intelligence Voice: Listen to pre-recorded AI-generated voices describing the POIs stored on the cloud.\n\n2. Artificial Intelligence Context: Connect to the AI server and generate your own real-time audio via Suno's Bark Generative Audio AI Model.\nTo do this, just run the following commands on your server:\n\na. Pull the docker image:\n\ndocker pull vedantkingh/bark2\n\nb. To run on CPU:\n\ndocker run vedantkingh/bark2\n\nTo run on GPU:\n\ndocker run --gpus all vedantkingh/bark2\n\n3. Category Sounds: Feel the POIs ambience around you with immersive sounds to your categories.\nYou can also add, edit and delete the category sounds.\n\n4. Context Sensing: With the Nearby Places feature, you can now generate nearby places out of thin air to visit around a certain POI.\nBest experienced when coupled with Artificial Intelligence Context.\n\nCheck out the GitHub repository of Located Voice CMS for more information: https://github.com/vedantkingh/Located-Voice-CMS"
+    },
+    {
+        "name": "Animal Discovery AI",
+        "icon": "icon.webp",
+        "category": "Tools",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp"
+        ],
+        "base_url": "./apps/Animal_Discovery_AI/",
+        "file": "/app/",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Jul 24, 2024",
+        "android_OS": "8.0+",
+        "version": "1.1.0",
+        "content": "Ask AI about animals worldwide and visualize it on Liquid Galaxy. \n AI Animal Discovery is an app that helps you explore and learn about animals from around the world using advanced generative AI technology."
     }
 ]
