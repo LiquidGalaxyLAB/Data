@@ -256,5 +256,41 @@
         "android_OS": "8.0+",
         "version": "1.0.12",
         "content": "AI powered tourism app with multiple features.\n This AI-powered Flutter app makes it simple to explore tourism information.\n Connected to the Liquid Galaxy system, the app allows users to ask questions about tourist spots using a chat interface or voice commands. It provides personalized itineraries, recommends tourist places, and explains the history and significance of each location.\n The app offers easy-to-use prompts like \"What to Eat\" and \"Find Tourist Place,\" enabling users to quickly choose what interests them. For more specific needs, users can type their own questions in the chat.\n The app also supports multi-modal interactions, allowing users to engage through images, text, or voice-to-text, making it adaptable to different preferences.\n A standout feature is its integration with Liquid Galaxy, which offers an orbit and tour experience, visually showcasing the places users are interested in. This feature brings locations to life, providing a virtual tour that enhances the planning process.\n Whether users are looking for tourist place recommendations, local activities, or budget planning, this app is a comprehensive, user-friendly guide for all their travel needs."
+    },
+
+     {
+        "name": "LVC - located voice cms",
+        "icon": "icon.webp",
+        "category": "Education",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp",
+            "6.webp",
+        ],
+        "base_url": "./apps/LVC - located voice cms/",
+        "file": "/app/",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Aug 18, 2023",
+        "android_OS": "6.0+",
+        "version": "2.0.0",
+        "content": "Located Voice CMS for Liquid Galaxy \n
+Located Voice CMS is an Android app that lets the user connect to a Liquid Galaxy system and send POIs and Tours.\nAt the same time, the app also lets to create, update and delete POIs, Tours, and Categories. \nUse various tools to control your Liquid Galaxy System.
+\nAccess the latest features:
+\n1. Artificial Intelligence Voice: Listen to pre-recorded AI-generated voices describing the POIs stored on the cloud.
+\n2. Artificial Intelligence Context: Connect to the AI server and generate your own real-time audio via Suno's Bark Generative Audio AI Model.\n To do this, just run the following commands on your server:
+\na. Pull the docker image:
+\ndocker pull vedantkingh/bark2
+\nb. To run on CPU:
+\ndocker run vedantkingh/bark2
+\nTo run on GPU:
+\ndocker run --gpus all vedantkingh/bark2
+\n3. Category Sounds: Feel the POIs ambience around you with immersive sounds to your categories. \nYou can also add, edit and delete the category sounds.
+\n4. Context Sensing: With the Nearby Places feature, you can now generate nearby places out of thin air to visit around a certain POI.\n Best experienced when coupled with Artificial Intelligence Context.
+\nCheck out the GitHub repository of Located Voice CMS for more information: https://github.com/vedantkingh/Located-Voice-CMS"
     }
+    
 ]
