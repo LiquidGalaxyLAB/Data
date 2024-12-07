@@ -445,7 +445,28 @@
     "android_OS": "4.3+",
     "version": "1.0.0",
     "content": "This app is used to personalize navigation with some developed controllers.\nThe Arduino Controller App has a friendly and intuitive interface, with simple commands and connections to send data to controllers. Users can change the default navigation list of controls, create personalized navigation lists with favorite places, modify the tour time during the tour, and start the WiFi connection between the controls and Liquid Galaxy.\nThe app also provides the ability to update network data and includes an information page about GSoC, the Liquid Galaxy community, and the project collaborators.\n\nLiquid Galaxy Org Director: Andreu Ibañez\nApp released by Alejandro Illán Marcos."
+},
+    {
+    "name": "TINYGS Data Visualization Tool",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp",
+        "5.webp"
+    ],
+    "base_url": "./apps/TINYGS Data Visualization Tool/",
+    "file": "/app/",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Aug 25, 2022",
+    "android_OS": "7.0+",
+    "version": "1.0",
+    "content": "This is an Android application that visualizes satellites and ground stations available on the TinyGS server. It provides geographical animations of satellites and ground stations on a Liquid Galaxy setup. Users need a running Liquid Galaxy system, an Android tablet, and an internet connection to use this tool.\n\n**Key Features:**\n- **Satellite**: Visualize a collection of satellites moving around the Earth.\n- **Ground Station**: Display TinyGS ground stations powered by LoRa boards and ground wave antennas.\n- **Packets**: Showcase signals received from satellites via ground stations or TinyGS.\n\nThis project was developed as part of Google Summer of Code 2022 by Goutam Verma, with Merul Diman as mentor and Andreu Ibañez, Mario Ezquerro as co-mentors.\n\n**Lleida Liquid Galaxy LAB support:** Pau Francino\n**Liquid Galaxy Org Director:** Andreu Ibañez\nApp released by Alejandro Illán Marcos."
 }
+
 
 
     
