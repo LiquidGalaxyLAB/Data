@@ -14,7 +14,7 @@
             "7.webp",
             "8.webp"
         ],
-        "base_url": "./apps/La_Palma_VolTrac/",
+        "base_url": "/apps/La_Palma_VolTrac/",
         "file": "/app/La Palma Volcano Tracking Tool_1.0.0.apk.zip",
         "pwa_link": "",
         "type": "app",
@@ -34,7 +34,7 @@
             "4.webp",
             "5.webp"
         ],
-        "base_url": "./apps/SatNOGS_Visualization_Tool/",
+        "base_url": "/apps/SatNOGS_Visualization_Tool/",
         "file": "/app/SatNOGS Visualization Tool_1.0.5.apk",
         "pwa_link": "",
         "type": "app",
@@ -57,7 +57,7 @@
             "7.webp",
             "8.webp"
         ],
-        "base_url": "./apps/Liquid_Galaxy_Controller/",
+        "base_url": "/apps/Liquid_Galaxy_Controller/",
         "file": "/app/Liquid Galaxy Controller_1.2.3.apk",
         "pwa_link": "",
         "type": "app",
@@ -78,7 +78,7 @@
             "5.webp",
             "6.webp"
         ],
-        "base_url": "./apps/Laser_Slides_2024/",
+        "base_url": "/apps/Laser_Slides_2024/",
         "file": "/app/LaserSlides_0.1.0.apk",
         "pwa_link": "",
         "type": "app",
@@ -100,7 +100,7 @@
             "6.webp",
             "7.webp"
         ],
-        "base_url": "./apps/Rocket_Launcher/",
+        "base_url": "/apps/Rocket_Launcher/",
         "file": "/app/Rocket Launcher App_1.0.0.apk.zip",
         "pwa_link": "",
         "type": "app",
@@ -123,7 +123,7 @@
             "7.webp",
             "8.webp"
         ],
-        "base_url": "./apps/BYOP/",
+        "base_url": "/apps/BYOP/",
         "file": "/app/BYOP_1.0.1.apk",
         "pwa_link": "",
         "type": "app",
@@ -146,7 +146,7 @@
             "7.webp",
             "8.webp"
         ],
-        "base_url": "./apps/Simple_CMS/",
+        "base_url": "/apps/Simple_CMS/",
         "file": "/app/Simple CMS_1.0.apk",
         "pwa_link": "",
         "type": "app",
@@ -168,7 +168,7 @@
             "6.webp",
             "7.webp"
         ],
-        "base_url": "./apps/Liquid_Galaxy_For_Education/",
+        "base_url": "/apps/Liquid_Galaxy_For_Education/",
         "file": "/app/Liquid Galaxy For Education_1.7.apk",
         "pwa_link": "",
         "type": "app",
@@ -191,7 +191,7 @@
             "7.webp",
             "8.webp"
         ],
-        "base_url": "./apps/Image_Satellite_Visualizer/",
+        "base_url": "/apps/Image_Satellite_Visualizer/",
         "file": "/app/Image Satellite Visualizer_1.0.0.apk",
         "pwa_link": "",
         "type": "app",
@@ -209,7 +209,7 @@
             "2.webp",
             "3.webp"
         ],
-        "base_url": "./apps/CropDoc/",
+        "base_url": "/apps/CropDoc/",
         "file": "/app",
         "pwa_link": "",
         "type": "app",
@@ -230,7 +230,7 @@
             "5.webp",
             "6.webp"
         ],
-        "base_url": "./apps/Smart_City_Dashboard/",
+        "base_url": "/apps/Smart_City_Dashboard/",
         "file": "/app/Smart City Dashboard-1.1.0.apk",
         "pwa_link": "",
         "type": "app",
@@ -252,7 +252,7 @@
             "6.webp",
             "7.webp"
         ],
-        "base_url": "./apps/Gemini AI Touristic tool/",
+        "base_url": "/apps/Gemini_AI_Touristic_tool/",
         "file": "/app",
         "pwa_link": "",
         "type": "app",
@@ -273,7 +273,7 @@
             "5.webp",
             "6.webp"
         ],
-        "base_url": "./apps/LVC - located voice cms/",
+        "base_url": "/apps/LVC - located voice cms/",
         "file": "/app/",
         "pwa_link": "",
         "type": "app",
@@ -293,7 +293,7 @@
             "4.webp",
             "5.webp"
         ],
-        "base_url": "./apps/Animal_Discovery_AI/",
+        "base_url": "/apps/Animal_Discovery_AI/",
         "file": "/app/",
         "pwa_link": "",
         "type": "app",
@@ -313,7 +313,7 @@
             "4.webp",
             "5.webp"
         ],
-        "base_url": "./apps/ARCA/",
+        "base_url": "/apps/ARCA/",
         "file": "/app/",
         "pwa_link": "",
         "type": "app",
@@ -333,7 +333,7 @@
             "4.webp",
             "5.webp"
         ],
-        "base_url": "./apps/LiquidArt_AI/",
+        "base_url": "/apps/LiquidArt_AI/",
         "file": "/app/",
         "pwa_link": "",
         "type": "app",
@@ -351,7 +351,7 @@
             "2.webp",
             "3.webp"
         ],
-        "base_url": "./apps/Satellite_Collision/",
+        "base_url": "/apps/Satellite_Collision/",
         "file": "/app/",
         "pwa_link": "",
         "type": "app",
@@ -369,7 +369,7 @@
         "2.webp",
         "3.webp"
     ],
-    "base_url": "./apps/BIM LG Visualizer/",
+    "base_url": "/apps/BIM LG Visualizer/",
     "file": "/app/",
     "pwa_link": "",
     "type": "app",
@@ -392,7 +392,7 @@
         "7.webp",
         "8.webp"
     ],
-    "base_url": "./apps/RAS/",
+    "base_url": "/apps/RAS/",
     "file": "/app/",
     "pwa_link": "",
     "type": "app",
@@ -416,7 +416,7 @@
         "8.webp",
         "9.webp"
     ],
-    "base_url": "./apps/Orbit Satellite Visualizer/",
+    "base_url": "/apps/Orbit Satellite Visualizer/",
     "file": "/app/",
     "pwa_link": "",
     "type": "app",
@@ -437,7 +437,7 @@
         "5.webp",
         "6.webp"
     ],
-    "base_url": "./apps/Arduino Controller App/",
+    "base_url": "/apps/Arduino Controller App/",
     "file": "/app/",
     "pwa_link": "",
     "type": "app",
@@ -446,7 +446,27 @@
     "version": "1.0.0",
     "content": "This app is used to personalize navigation with some developed controllers.\nThe Arduino Controller App has a friendly and intuitive interface, with simple commands and connections to send data to controllers. Users can change the default navigation list of controls, create personalized navigation lists with favorite places, modify the tour time during the tour, and start the WiFi connection between the controls and Liquid Galaxy.\nThe app also provides the ability to update network data and includes an information page about GSoC, the Liquid Galaxy community, and the project collaborators.\n\nLiquid Galaxy Org Director: Andreu Ibañez\nApp released by Alejandro Illán Marcos."
 },
-    {
+{
+    "name": "LG Gesture and Voice control",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp",
+        "5.webp"
+    ],
+    "base_url": "/apps/LG_Gesture_and_Voice_control/",
+    "file": "/app/",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Aug 24, 2023",
+    "android_OS": "7.0+",
+    "version": "1.0.0",
+    "content": "Improve the control of the LG with voice commands, body poses, and hand gestures.\nThe LG Gesture & Voice Control project is a comprehensive initiative that seeks to enhance the Liquid Galaxy Rig's control capabilities by incorporating advanced interaction methods, such as voice commands, body poses, and hand gestures. Developed as a Flutter application, this project harnesses cutting-edge technologies, including Mediapipe, ML Kit, and Voice Recognition, to revolutionize how users interact with the Liquid Galaxy Rig.\nThe Liquid Galaxy Rig is a sophisticated multi-screen system that offers a captivating panoramic viewing experience. Traditionally, controlling such a complex system has often relied on conventional input methods. However, the LG Gesture & Voice Control project challenges this norm by introducing innovative and intuitive modes of interaction.\nCreated using Flutter, its capabilities enable the creation of a seamless and visually appealing interface that serves as the foundation for gesture and voice control functionalities. This cross-platform nature ensures that the benefits of this project can be enjoyed across multiple devices and operating systems.\nMediapipe, a robust open-source framework developed by Google, plays a pivotal role in this project. It provides a rich set of tools for building applications that involve perception-based tasks, including gesture and pose recognition. By integrating Mediapipe's capabilities, the LG Gesture & Voice Control project can accurately track hand gestures and body poses, translating them into actionable commands for the Liquid Galaxy Rig. This allows users to manipulate and navigate the system using natural movements.\nThe project bridges the gap between humans and machines by seamlessly blending gesture recognition, voice commands, and intuitive user interfaces. Users can easily navigate the Liquid Galaxy Rig, simplifying complex tasks and amplifying the system's accessibility.\nThe potential applications of the LG Gesture & Voice Control project are diverse. From educational presentations and interactive exhibitions to artistic displays and immersive entertainment experiences, the project opens doors to new modes of engagement.\nLG Gesture & Voice Control underscores the dynamic nature of human-computer interaction. The fusion of Flutter, Mediapipe, ML Kit, and voice recognition technology showcases modern development tools' capabilities and paves the way for future advancements in user experience design."
+},
+{
     "name": "TINYGS Data Visualization Tool",
     "icon": "icon.webp",
     "category": "Education",
@@ -457,7 +477,7 @@
         "4.webp",
         "5.webp"
     ],
-    "base_url": "./apps/TINYGS Data Visualization Tool/",
+    "base_url": "/apps/TINYGS Data Visualization Tool/",
     "file": "/app/",
     "pwa_link": "",
     "type": "app",
@@ -465,9 +485,5 @@
     "android_OS": "7.0+",
     "version": "1.0",
     "content": "This is an Android application that visualizes satellites and ground stations available on the TinyGS server. It provides geographical animations of satellites and ground stations on a Liquid Galaxy setup. Users need a running Liquid Galaxy system, an Android tablet, and an internet connection to use this tool.\n\n**Key Features:**\n- **Satellite**: Visualize a collection of satellites moving around the Earth.\n- **Ground Station**: Display TinyGS ground stations powered by LoRa boards and ground wave antennas.\n- **Packets**: Showcase signals received from satellites via ground stations or TinyGS.\n\nThis project was developed as part of Google Summer of Code 2022 by Goutam Verma, with Merul Diman as mentor and Andreu Ibañez, Mario Ezquerro as co-mentors.\n\n**Lleida Liquid Galaxy LAB support:** Pau Francino\n**Liquid Galaxy Org Director:** Andreu Ibañez\nApp released by Alejandro Illán Marcos."
-}
-
-
-
-    
+}   
 ]
