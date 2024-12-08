@@ -622,5 +622,26 @@
         "android_OS": "4.4+",
         "version": "1.0.0",
         "content":"A game manager for the games developed for the Liquid Galaxy\n\nThe Liquid Galaxy Retro Gaming is an app created with the intention of making the management of games in the Liquid Galaxy easier for any user. By simply installing the games and the LGRG server on your Liquid Galaxy master you can quickly launch and stop games on all screens and also get access to a specific controller for the chosen game and a QR code for other players to easily access the controller as well! More information about the installation of the games and the LGRG server can be found in the github repository which can be found by clicking the info icon on the top right of the app and then the github button on the app bar.\n\nThis project was developed for the Google Summer of Code 2021 by brazilian student Leonardo Coelho Ruas in collaboration with the Liquid Galaxy Organization.\n\n"
-    }
+    },
+    {
+        "name": "Reforestation Assistant Sim2",
+        "icon": "icon.webp",
+        "category": "Education",
+        "carousel_assets": [
+          "1.webp",
+          "2.webp",
+          "3.webp",
+          "4.webp",
+          "5.webp",
+          "6.webp"
+        ],
+        "base_url": "/apps/Reforestation_Assistant_Sim2/",
+        "file": "app/",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Sep 6, 2022",
+        "android_OS": "6.0+",
+        "version": "2.0.0",
+        "content": "An app to help on reforestation of degraded areas by drone or manually.\nThe Reforestation Assistant & Simulator idea is an Open Source app to help on reforestation of degraded areas of the planet by drone or manually. The project consists of an Android App where users can plan the reforesting missions, by defining areas of seeding, specific seed/tree location, drone landing points, fly zones and other helpful metrics. "
+  }
 ]
