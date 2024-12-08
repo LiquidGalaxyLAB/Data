@@ -209,7 +209,7 @@
             "3.webp"
         ],
         "base_url": "/apps/CropDoc/",
-        "file": "/app",
+        "file": "/app/CropDoc1.0.0.apk",
         "pwa_link": "",
         "type": "app",
         "date": "2022-09-11",
@@ -577,7 +577,7 @@
             "6.webp"
         ],
         "base_url": "/apps/LG_Space_Chess/",
-        "file": "app/",
+        "file": "app/Space Chess-1.0.0.apk",
         "pwa_link": "",
         "type": "app",
         "date": "Aug 23, 2022",
