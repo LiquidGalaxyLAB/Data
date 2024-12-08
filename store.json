@@ -643,5 +643,27 @@
         "android_OS": "6.0+",
         "version": "2.0.0",
         "content": "An app to help on reforestation of degraded areas by drone or manually.\nThe Reforestation Assistant & Simulator idea is an Open Source app to help on reforestation of degraded areas of the planet by drone or manually. The project consists of an Android App where users can plan the reforesting missions, by defining areas of seeding, specific seed/tree location, drone landing points, fly zones and other helpful metrics. "
+  },
+  {
+    "name": "Simple CMS E.S.",
+        "icon": "icon.webp",
+        "category": "Education",
+        "carousel_assets": [
+          "1.webp",
+          "2.webp",
+          "3.webp",
+          "4.webp",
+          "5.webp",
+          "6.webp",
+          "7.webp"
+        ],
+        "base_url": "/apps/Simple_CMS_E.S./",
+        "file": "app/",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Apr 21, 2022",
+        "android_OS": "7.0+",
+        "version": "1.1.0",
+        "content": "This is an app that creates animations and records the current scenario of LG.\n\nSimpleCMS E.S is an android application. which creates animations and exports storyboard location files in esp format. This application also records the current scenario of LiquidGalaxy and updates it on the user interface.\n\nFeatures of Simple CMS ES\n\nZoom-to: A simple camera to move to a point from a higher altitude. Your first and last frames will match the exact framing of your camera in their respective steps..\n\nOrbit: A perfectly smooth circular orbit around a point of interest.\n\nSpiral: A gradually shrinking, descending orbit around a point of interest.\n\nREC: it captures the current scenario of LiquidGalaxy and then extracts the desired data from it.\n\nAfter exporting location files it also saves it locally under an application specific folder.To view the animations, we can import esp files in Google Earth Studio. This application was developed as part of Google Summer of Code 2021 by Goutam Verma,with Diego Riveros as mentor, Andreu Ibañez and Ivan Josa as co-mentor."
   }
 ]
