@@ -615,8 +615,8 @@
             "4.webp",
             "5.webp"
         ],
-        "base_url": "./apps/Liquid_Galaxy_Retro_Gaming/",
-        "file": "/app",
+        "base_url": "/apps/Liquid_Galaxy_Retro_Gaming/",
+        "file": "app/",
         "pwa_link": "",
         "type": "app",
         "date": "Sep 9, 2021",
