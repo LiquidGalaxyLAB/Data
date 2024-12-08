@@ -604,4 +604,27 @@
         "version": "1.1.0",
         "content": "Homeless Aid Panoramic Interactive System\nThis app is a social net to contact people with homeless and help them"
     }
+
+
+{
+    "name": "Reforestation Assistant Sim2",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp",
+        "5.webp",
+        "6.webp"
+    ],
+    "base_url": "/apps/Reforestation_Assistant_Sim2/",
+    "file": "app/",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Sep 6, 2022",
+    "android_OS": "6.0+",
+    "version": "2.0.0",
+    "content": "An app to help on reforestation of degraded areas by drone or manually.\nThe Reforestation Assistant & Simulator idea is an Open Source app to help on reforestation of degraded areas of the planet by drone or manually. The project consists of an Android App where users can plan the reforesting missions, by defining areas of seeding, specific seed/tree location, drone landing points, fly zones and other helpful metrics. "
+}
 ]
