@@ -209,12 +209,12 @@
             "3.webp"
         ],
         "base_url": "/apps/CropDoc/",
-        "file": "/app",
+        "file": "/app/CropDoc1.0.0.apk",
         "pwa_link": "",
         "type": "app",
         "date": "2022-09-11",
         "android_OS": "5.0",
-        "version": "1.1",
+        "version": "1.0.0",
         "content": "Analyze apple leaf samples to detect tree diseases and control pests.\n\nThe project aims to collect and display data about tree diseases and manage pests effectively using the Liquid Galaxy system.\n\nWith the data available in the app, users can send it to the Liquid Galaxy system for visualization on Google Earth. Additionally, users can create their own databases, cataloging terrains and samples. The app provides full control over all recorded information.\n\nInstructions for use:\n\n1. Grant location access to the app to enable faster and more accurate data collection.\n2. Capture a photo of the apple leaf using your mobile device.\n3. Alternatively, select an apple leaf photo from your gallery.\n4. Create a new terrain or select an existing one.\n5. Set the location of the apple tree within the chosen terrain.\n6. Print the collected data if needed.\n\nThis project began as part of Google Summer of Code 2022 with the Liquid Galaxy Project Organization, developed by Guillem Camats.\n\nLleida Liquid Galaxy LAB support: Pau Francino\nLiquid Galaxy Project Org Director: Andreu Ibañez."
     },
     {
@@ -577,7 +577,7 @@
             "6.webp"
         ],
         "base_url": "/apps/LG_Space_Chess/",
-        "file": "app/",
+        "file": "/app/Space Chess-1.0.0.apk",
         "pwa_link": "",
         "type": "app",
         "date": "Aug 23, 2022",
