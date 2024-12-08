@@ -665,5 +665,25 @@
         "android_OS": "7.0+",
         "version": "1.1.0",
         "content": "This is an app that creates animations and records the current scenario of LG.\n\nSimpleCMS E.S is an android application. which creates animations and exports storyboard location files in esp format. This application also records the current scenario of LiquidGalaxy and updates it on the user interface.\n\nFeatures of Simple CMS ES\n\nZoom-to: A simple camera to move to a point from a higher altitude. Your first and last frames will match the exact framing of your camera in their respective steps..\n\nOrbit: A perfectly smooth circular orbit around a point of interest.\n\nSpiral: A gradually shrinking, descending orbit around a point of interest.\n\nREC: it captures the current scenario of LiquidGalaxy and then extracts the desired data from it.\n\nAfter exporting location files it also saves it locally under an application specific folder.To view the animations, we can import esp files in Google Earth Studio. This application was developed as part of Google Summer of Code 2021 by Goutam Verma,with Diego Riveros as mentor, Andreu Ibañez and Ivan Josa as co-mentor."
+    },
+    {
+        "name": "Super Liquid Galaxy Controller",
+        "icon": "icon.webp",
+        "category": "Tools",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp"
+        ],
+        "base_url": "/apps/Super_Liquid_Galaxy_Controller/",
+        "file": "app/Super_Liquid_Galaxy_Controller.apk",
+        "pwa_link": "",
+        "type": "app",
+        "date": "",
+        "android_OS": "",
+        "version": "1.0.0",
+        "content": "The Super Liquid Galaxy Controller is an application designed to serve as the primary interface for interacting with the Liquid Galaxy rig, offering users a seamless and engaging experience. Built on the Flutter framework, the application enhances the capabilities of the Liquid Galaxy platform by integrating advanced features like custom KML building, immersive tour creation, and intuitive map-based controls. Users can easily explore the world, create detailed visualizations of geospatial data, and control the Liquid Galaxy rig effortlessly through voice commands or a user-friendly interface. Whether navigating through points of interest, building intricate tours, or manipulating the display with map movements, the Super Liquid Galaxy Controller provides an interactive and comprehensive toolset that enriches the visualization experience on the Liquid Galaxy platform."
     }
 ]
