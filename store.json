@@ -707,7 +707,7 @@
         "pwa_link": "",
         "type": "app",
         "date": "Jul 30, 2024",
-        "android_OS": "",
+        "android_OS": "13.0+",
         "version": "1.0.0",
         "content": "The project is a responsive Flutter application designed for tablets, which through an SSH connection and API calls, is able to represent the desired information on the LG. Additionally, the application is autonomous, and without being connected to the LG, it is able to represent and display information on the mobile device itself. The project consists of three parts:\n\nThe first part represents past forest fires, allows the user to see all the affected areas, the development of the forest fire, and all the information represented on the Liquid Galaxy.\n\nThe second part helps visualize real-time fires, whether they are forest fires or house fires, on the Liquid Galaxy and see their information.\n\nIn the third part of the project, what is dealt with is to represent the risks of forest fires in the United States area.\n\nThe Liquid Galaxy is a cluster of screens with Google Earth that synchronize witheach other to create the sensation of a single screen, depending on the configuration it can be panoramic, vertical, curved, etc. Through this tool, we are able to represent fires and see the impacts in an interactive and easy-to-see detail. Additionally, we are able to find a lot of important data about the fire, such as the extent, emitted gases, possible victims, key points, extinguishing techniques, possible improvements, front speed, fire score, type of smoke column, smoke data, etc."
     }
