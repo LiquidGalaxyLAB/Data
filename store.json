@@ -752,5 +752,30 @@
         "android_OS": "13.0+",
         "version": "1.0.0",
         "content": "Agro Task Manager for Liquid Galaxy (ATM) is an app that allows the user to simulate an automatization of field work using agro-robots. "
+    },
+    {
+        "name": "LG AI Travel Itinerary",
+        "icon": "icon.webp",
+        "category": "Education",
+        "carousel_assets": [
+          "1.webp",
+          "2.webp",
+          "3.webp",
+          "4.webp",
+          "5.webp",
+          "6.webp",
+          "7.webp",
+          "8.webp",
+          "9.webp"
+        ],
+        "base_url": "/apps/LG_AI_Travel_Itinerary/",
+        "file": "app/lg_ai_travel_itinerary_1.0.13_13.apk",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Sep 3, 2024",
+        "android_OS": "13.0+",
+        "version": "1.0.0",
+        "content": "The LG AI Travel Itinerary project makes travel planning fun by combining AI-generated stories with beautiful visuals on the LG Rig platform.\nUsing the Groq Model, it creates exciting fictional travel experiences, highlighting important Points of Interest in each destination.\nThe platform offers step-by-step travel suggestions and includes voice interactions for a more engaging experience.\nThis innovative approach provides a unique and personalized travel adventure, showcasing different cultures and landscapes in an inspiring and memorable way."
     }
+
 ]
