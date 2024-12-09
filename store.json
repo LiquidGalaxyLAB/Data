@@ -681,8 +681,8 @@
         "file": "app/Super_Liquid_Galaxy_Controller.apk",
         "pwa_link": "",
         "type": "app",
-        "date": "",
-        "android_OS": "",
+        "date": "Sep 3, 2024",
+        "android_OS": "13.0+",
         "version": "1.0.0",
         "content": "The Super Liquid Galaxy Controller is an application designed to serve as the primary interface for interacting with the Liquid Galaxy rig, offering users a seamless and engaging experience. Built on the Flutter framework, the application enhances the capabilities of the Liquid Galaxy platform by integrating advanced features like custom KML building, immersive tour creation, and intuitive map-based controls. Users can easily explore the world, create detailed visualizations of geospatial data, and control the Liquid Galaxy rig effortlessly through voice commands or a user-friendly interface. Whether navigating through points of interest, building intricate tours, or manipulating the display with map movements, the Super Liquid Galaxy Controller provides an interactive and comprehensive toolset that enriches the visualization experience on the Liquid Galaxy platform."
     },
