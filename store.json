@@ -601,8 +601,8 @@
     "file": "app/",
     "pwa_link": "",
     "type": "app",
-    "date": "",
-    "android_OS": "",
+    "date": "Sep 3, 2024",
+    "android_OS": "13.0+",
     "version": "1.0.0",
     "content": "Agro Task Manager for Liquid Galaxy (ATM) is an app that allows the user to simulate an automatization of field work using agro-robots. "
   }
