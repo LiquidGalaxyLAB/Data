@@ -778,6 +778,29 @@
         "content": "The LG AI Travel Itinerary project makes travel planning fun by combining AI-generated stories with beautiful visuals on the LG Rig platform.\nUsing the Groq Model, it creates exciting fictional travel experiences, highlighting important Points of Interest in each destination.\nThe platform offers step-by-step travel suggestions and includes voice interactions for a more engaging experience.\nThis innovative approach provides a unique and personalized travel adventure, showcasing different cultures and landscapes in an inspiring and memorable way."
     },
     {
+        "name": "LG-AI-Touristic Explorer",
+        "icon": "icon.webp",
+        "category": "Travel & Local",
+        "carousel_assets": [
+          "1.webp",
+          "2.webp",
+          "3.webp",
+          "4.webp",
+          "5.webp",
+          "6.webp",
+          "7.webp",
+          "8.webp"
+        ],
+        "base_url": "/apps/LG_AI_Touristic_Explorer/",
+        "file": "app/lg_ai_travel_itinerary_1.0.13_13.apk",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Sep 3, 2024",
+        "android_OS": "13.0+",
+        "version": "2.3",
+        "content": "LG-AI-Touristic Explorer lets users explore cities using Gemini API and LG Rig.\nLG-AI-Touristic-Explorer is an immersive Flutter application designed to bring cities to life through captivating visualizations and engaging storytelling. By using the power of AI and Google Maps, the app offers a unique exploration experience that delves into a city's geography, history, culture, and points of interest.\nThe app utilizes Google's Gemini API for getting the inference and Deepgram API for narration."
+    },
+    {
         "name": "LG AIS Visualization",
         "icon": "icon.webp",
         "category": "Education",
@@ -800,5 +823,4 @@
         "version": "1.1.2",
         "content": "LG AIS Visualization is a tool designed to provide real-time tracking, detailed vessel information, predictive route analysis, and collision risk management. It is optimized for Liquid Galaxy systems, allowing seamless synchronization of maps between the rig and the app. The app can also function standalone, providing maritime insights based on open AIS data from the Norwegian Coastal Administration.\nKey features include:\nReal-Time Vessel Tracking: Monitor cargo ships, passenger vessels, tankers, fishing boats, and more.\nDetailed Vessel Information: Access data on vessel name, type, speed, course, and more.\nHistorical Route Playback: View past routes and analyze vessel movements.\nFuture Route Prediction: Predict potential future routes using historical data.\nCollision Risk Management: Calculate CPA and TCPA to assess collision risks.\nCustomizable Region Monitoring: Focus on specific areas and filter by vessel type or country."
     }
-
 ]
