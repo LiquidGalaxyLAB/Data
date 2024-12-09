@@ -712,6 +712,27 @@
         "content": "The project is a responsive Flutter application designed for tablets, which through an SSH connection and API calls, is able to represent the desired information on the LG. Additionally, the application is autonomous, and without being connected to the LG, it is able to represent and display information on the mobile device itself. The project consists of three parts:\n\nThe first part represents past forest fires, allows the user to see all the affected areas, the development of the forest fire, and all the information represented on the Liquid Galaxy.\n\nThe second part helps visualize real-time fires, whether they are forest fires or house fires, on the Liquid Galaxy and see their information.\n\nIn the third part of the project, what is dealt with is to represent the risks of forest fires in the United States area.\n\nThe Liquid Galaxy is a cluster of screens with Google Earth that synchronize witheach other to create the sensation of a single screen, depending on the configuration it can be panoramic, vertical, curved, etc. Through this tool, we are able to represent fires and see the impacts in an interactive and easy-to-see detail. Additionally, we are able to find a lot of important data about the fire, such as the extent, emitted gases, possible victims, key points, extinguishing techniques, possible improvements, front speed, fire score, type of smoke column, smoke data, etc."
     },
     {
+        "name": "LG AI Fictional Itinerary Gemma",
+        "icon": "icon.webp",
+        "category": "Education",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp",
+            "6.webp"
+        ],
+        "base_url": "/apps/LG_AI_Fictional_Itinerary_Gemma/",
+        "file": "app/LG AI Fictional Itinerary Gemma_1.0.13_13.apk",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Sep 3, 2024",
+        "android_OS": "13.0+",
+        "version": "1.0.13",
+        "content": "The LG AI Fictional Itinerary Gemini combines AI stories with visuals for immersive, creative and personalized travel experiences with the Gemini AI LLM model.\nThe LG AI Fictional Itinerary Gemini project aims to transform travel planning by merging Generative Text AI with visually immersive storytelling on the LG Rig platform. It creates rich, engaging narratives that transport users to imaginative, fictional worlds while highlighting key Points of Interest within each destination with the Gemini AI LLM model. The platform emphasizes sequential touring recommendations and incorporates voice models to enhance interaction. By blending creativity with captivating visuals, the project offers a unique, personalized travel experience that showcases diverse cultures and landscapes, making travel planning both inspiring and memorable."
+    },
+    {
         "name": "LG Agro Task Manager",
         "icon": "icon.webp",
         "category": "Education",
