@@ -792,12 +792,12 @@
           "8.webp"
         ],
         "base_url": "/apps/LG_AI_Touristic_Explorer/",
-        "file": "app/lg_ai_travel_itinerary_1.0.13_13.apk",
+        "file": "app/LG-AI-Touristic Explorer_2.3.apk",
         "pwa_link": "",
         "type": "app",
         "date": "Sep 3, 2024",
         "android_OS": "13.0+",
-        "version": "2.3",
+        "version": "2.3.0",
         "content": "LG-AI-Touristic Explorer lets users explore cities using Gemini API and LG Rig.\nLG-AI-Touristic-Explorer is an immersive Flutter application designed to bring cities to life through captivating visualizations and engaging storytelling. By using the power of AI and Google Maps, the app offers a unique exploration experience that delves into a city's geography, history, culture, and points of interest.\nThe app utilizes Google's Gemini API for getting the inference and Deepgram API for narration."
     },
     {
