@@ -586,6 +586,66 @@
     "content": "This is an app that creates animations and records the current scenario of LG.\n\nSimpleCMS E.S is an android application. which creates animations and exports storyboard location files in esp format. This application also records the current scenario of LiquidGalaxy and updates it on the user interface.\n\nFeatures of Simple CMS ES\n\nZoom-to: A simple camera to move to a point from a higher altitude. Your first and last frames will match the exact framing of your camera in their respective steps..\n\nOrbit: A perfectly smooth circular orbit around a point of interest.\n\nSpiral: A gradually shrinking, descending orbit around a point of interest.\n\nREC: it captures the current scenario of LiquidGalaxy and then extracts the desired data from it.\n\nAfter exporting location files it also saves it locally under an application specific folder.To view the animations, we can import esp files in Google Earth Studio. This application was developed as part of Google Summer of Code 2021 by Goutam Verma,with Diego Riveros as mentor, Andreu Ibañez and Ivan Josa as co-mentor."
   },
   {
+    "name": "Super Liquid Galaxy Controller",
+    "icon": "icon.webp",
+    "category": "Tools",
+    "carousel_assets": ["1.webp", "2.webp", "3.webp", "4.webp", "5.webp"],
+    "base_url": "/apps/Super_Liquid_Galaxy_Controller/",
+    "file": "app/Super_Liquid_Galaxy_Controller.apk",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Sep 3, 2024",
+    "android_OS": "13.0+",
+    "version": "1.0.0",
+    "content": "The Super Liquid Galaxy Controller is an application designed to serve as the primary interface for interacting with the Liquid Galaxy rig, offering users a seamless and engaging experience. Built on the Flutter framework, the application enhances the capabilities of the Liquid Galaxy platform by integrating advanced features like custom KML building, immersive tour creation, and intuitive map-based controls. Users can easily explore the world, create detailed visualizations of geospatial data, and control the Liquid Galaxy rig effortlessly through voice commands or a user-friendly interface. Whether navigating through points of interest, building intricate tours, or manipulating the display with map movements, the Super Liquid Galaxy Controller provides an interactive and comprehensive toolset that enriches the visualization experience on the Liquid Galaxy platform."
+  },
+  {
+    "name": "LG Wildfire Tracker",
+    "icon": "icon.webp",
+    "category": "Tools",
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp",
+      "6.webp",
+      "7.webp",
+      "8.webp",
+      "9.webp",
+      "10.webp"
+    ],
+    "base_url": "/apps/LG_Wildfire_Tracker/",
+    "file": "app/LG_Wildfire_Tracker-30_07_24_1.0.0+5.apk",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Jul 30, 2024",
+    "android_OS": "13.0+",
+    "version": "1.0.0",
+    "content": "The project is a responsive Flutter application designed for tablets, which through an SSH connection and API calls, is able to represent the desired information on the LG. Additionally, the application is autonomous, and without being connected to the LG, it is able to represent and display information on the mobile device itself. The project consists of three parts:\n\nThe first part represents past forest fires, allows the user to see all the affected areas, the development of the forest fire, and all the information represented on the Liquid Galaxy.\n\nThe second part helps visualize real-time fires, whether they are forest fires or house fires, on the Liquid Galaxy and see their information.\n\nIn the third part of the project, what is dealt with is to represent the risks of forest fires in the United States area.\n\nThe Liquid Galaxy is a cluster of screens with Google Earth that synchronize witheach other to create the sensation of a single screen, depending on the configuration it can be panoramic, vertical, curved, etc. Through this tool, we are able to represent fires and see the impacts in an interactive and easy-to-see detail. Additionally, we are able to find a lot of important data about the fire, such as the extent, emitted gases, possible victims, key points, extinguishing techniques, possible improvements, front speed, fire score, type of smoke column, smoke data, etc."
+  },
+  {
+    "name": "LG AI Fictional Itinerary Gemma",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp",
+      "6.webp"
+    ],
+    "base_url": "/apps/LG_AI_Fictional_Itinerary_Gemma/",
+    "file": "app/LG AI Fictional Itinerary Gemma_1.0.13_13.apk",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Sep 3, 2024",
+    "android_OS": "13.0+",
+    "version": "1.0.13",
+    "content": "The LG AI Fictional Itinerary Gemini combines AI stories with visuals for immersive, creative and personalized travel experiences with the Gemini AI LLM model.\nThe LG AI Fictional Itinerary Gemini project aims to transform travel planning by merging Generative Text AI with visually immersive storytelling on the LG Rig platform. It creates rich, engaging narratives that transport users to imaginative, fictional worlds while highlighting key Points of Interest within each destination with the Gemini AI LLM model. The platform emphasizes sequential touring recommendations and incorporates voice models to enhance interaction. By blending creativity with captivating visuals, the project offers a unique, personalized travel experience that showcases diverse cultures and landscapes, making travel planning both inspiring and memorable."
+  },
+  {
     "name": "LG Agro Task Manager",
     "icon": "icon.webp",
     "category": "Education",
@@ -601,9 +661,79 @@
     "file": "app/",
     "pwa_link": "",
     "type": "app",
-    "date": "",
-    "android_OS": "",
+    "date": "Sep 3, 2024",
+    "android_OS": "13.0+",
     "version": "1.0.0",
     "content": "Agro Task Manager for Liquid Galaxy (ATM) is an app that allows the user to simulate an automatization of field work using agro-robots. "
+  },
+  {
+    "name": "LG AI Travel Itinerary",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp",
+      "6.webp",
+      "7.webp",
+      "8.webp",
+      "9.webp"
+    ],
+    "base_url": "/apps/LG_AI_Travel_Itinerary/",
+    "file": "app/lg_ai_travel_itinerary_1.0.13_13.apk",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Sep 3, 2024",
+    "android_OS": "13.0+",
+    "version": "1.0.13",
+    "content": "The LG AI Travel Itinerary project makes travel planning fun by combining AI-generated stories with beautiful visuals on the LG Rig platform.\nUsing the Groq Model, it creates exciting fictional travel experiences, highlighting important Points of Interest in each destination.\nThe platform offers step-by-step travel suggestions and includes voice interactions for a more engaging experience.\nThis innovative approach provides a unique and personalized travel adventure, showcasing different cultures and landscapes in an inspiring and memorable way."
+  },
+  {
+    "name": "LG-AI-Touristic Explorer",
+    "icon": "icon.webp",
+    "category": "Travel & Local",
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp",
+      "6.webp",
+      "7.webp",
+      "8.webp"
+    ],
+    "base_url": "/apps/LG_AI_Touristic_Explorer/",
+    "file": "app/LG-AI-Touristic Explorer_2.3.apk",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Sep 3, 2024",
+    "android_OS": "13.0+",
+    "version": "2.3.0",
+    "content": "LG-AI-Touristic Explorer lets users explore cities using Gemini API and LG Rig.\nLG-AI-Touristic-Explorer is an immersive Flutter application designed to bring cities to life through captivating visualizations and engaging storytelling. By using the power of AI and Google Maps, the app offers a unique exploration experience that delves into a city's geography, history, culture, and points of interest.\nThe app utilizes Google's Gemini API for getting the inference and Deepgram API for narration."
+  },
+  {
+    "name": "LG AIS Visualization",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp",
+      "6.webp",
+      "7.webp",
+      "8.webp"
+    ],
+    "base_url": "/apps/LG_AIS_Visualization/",
+    "file": "app/LG-AIS-Visualization-1.1.2+8.apk",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Sep 3, 2024",
+    "android_OS": "13.0+",
+    "version": "1.1.2",
+    "content": "LG AIS Visualization is a tool designed to provide real-time tracking, detailed vessel information, predictive route analysis, and collision risk management. It is optimized for Liquid Galaxy systems, allowing seamless synchronization of maps between the rig and the app. The app can also function standalone, providing maritime insights based on open AIS data from the Norwegian Coastal Administration.\nKey features include:\nReal-Time Vessel Tracking: Monitor cargo ships, passenger vessels, tankers, fishing boats, and more.\nDetailed Vessel Information: Access data on vessel name, type, speed, course, and more.\nHistorical Route Playback: View past routes and analyze vessel movements.\nFuture Route Prediction: Predict potential future routes using historical data.\nCollision Risk Management: Calculate CPA and TCPA to assess collision risks.\nCustomizable Region Monitoring: Focus on specific areas and filter by vessel type or country."
   }
 ]
