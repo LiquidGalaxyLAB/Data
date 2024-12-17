@@ -401,7 +401,7 @@
       "6.webp"
     ],
     "base_url": "/apps/Arduino Controller App/",
-    "file": "app/",
+    "file": "app/arduino_controller.apk",
     "pwa_link": "",
     "type": "app",
     "date": "Aug 10, 2022",
