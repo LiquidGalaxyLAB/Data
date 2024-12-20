@@ -534,7 +534,7 @@
     "category": "Education",
     "carousel_assets": ["1.webp", "2.webp", "3.webp", "4.webp", "5.webp"],
     "base_url": "/apps/Liquid_Galaxy_Retro_Gaming/",
-    "file": "app/",
+    "file": "app/LG_retro_gaming.apk",
     "pwa_link": "",
     "type": "app",
     "date": "Sep 9, 2021",
