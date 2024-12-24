@@ -413,9 +413,15 @@
     "name": "LG Gesture and Voice control",
     "icon": "icon.webp",
     "category": "Education",
-    "carousel_assets": ["1.webp", "2.webp", "3.webp", "4.webp", "5.webp"],
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp"
+    ],
     "base_url": "/apps/LG_Gesture_and_Voice_control/",
-    "file": "app/",
+    "file": "app/LG_Gesture_and_Voice_control.apk.zip",
     "pwa_link": "",
     "type": "app",
     "date": "Aug 24, 2023",
