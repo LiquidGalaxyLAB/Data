@@ -27,7 +27,13 @@
     "name": "SatNOGS",
     "icon": "icon.webp",
     "category": "Education",
-    "carousel_assets": ["1.webp", "2.webp", "3.webp", "4.webp", "5.webp"],
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp"
+    ],
     "base_url": "/apps/SatNOGS_Visualization_Tool/",
     "file": "app/SatNOGS Visualization Tool_1.0.5.apk",
     "pwa_link": "",
@@ -197,7 +203,11 @@
     "name": "CropDoc",
     "icon": "icon.webp",
     "category": "Education",
-    "carousel_assets": ["1.webp", "2.webp", "3.webp"],
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp"
+    ],
     "base_url": "/apps/CropDoc/",
     "file": "/app/CropDoc1.0.0.apk",
     "pwa_link": "",
@@ -275,7 +285,13 @@
     "name": "Animal Discovery AI",
     "icon": "icon.webp",
     "category": "Tools",
-    "carousel_assets": ["1.webp", "2.webp", "3.webp", "4.webp", "5.webp"],
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp"
+    ],
     "base_url": "/apps/Animal_Discovery_AI/",
     "file": "app/Discover_animals.apk",
     "pwa_link": "",
@@ -289,7 +305,13 @@
     "name": "ARCA",
     "icon": "icon.webp",
     "category": "Education",
-    "carousel_assets": ["1.webp", "2.webp", "3.webp", "4.webp", "5.webp"],
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp"
+    ],
     "base_url": "/apps/ARCA/",
     "file": "app/",
     "pwa_link": "",
@@ -303,7 +325,13 @@
     "name": "LiquidArt AI",
     "icon": "icon.webp",
     "category": "Education",
-    "carousel_assets": ["1.webp", "2.webp", "3.webp", "4.webp", "5.webp"],
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp"
+    ],
     "base_url": "/apps/LiquidArt_AI/",
     "file": "app/LiquidArt_AI.apk",
     "pwa_link": "",
@@ -317,7 +345,11 @@
     "name": "Satellite Collision",
     "icon": "icon.webp",
     "category": "Education",
-    "carousel_assets": ["1.webp", "2.webp", "3.webp"],
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp"
+    ],
     "base_url": "/apps/Satellite_Collision/",
     "file": "app/",
     "pwa_link": "",
@@ -331,7 +363,11 @@
     "name": "BIM LG Visualizer",
     "icon": "icon.webp",
     "category": "Education",
-    "carousel_assets": ["1.webp", "2.webp", "3.webp"],
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp"
+    ],
     "base_url": "/apps/BIM LG Visualizer/",
     "file": "app/BIM LG Visualizer_1.3.0.apk",
     "pwa_link": "",
@@ -433,7 +469,13 @@
     "name": "TINYGS Data Visualization Tool",
     "icon": "icon.webp",
     "category": "Education",
-    "carousel_assets": ["1.webp", "2.webp", "3.webp", "4.webp", "5.webp"],
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp"
+    ],
     "base_url": "/apps/TINYGS Data Visualization Tool/",
     "file": "app/",
     "pwa_link": "",
@@ -447,7 +489,13 @@
     "name": "GDG Community Visualization",
     "icon": "icon.webp",
     "category": "Education",
-    "carousel_assets": ["1.webp", "2.webp", "3.webp", "4.webp", "5.webp"],
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp"
+    ],
     "base_url": "/apps/GDG_Community_Visualization/",
     "file": "app/gdg-community-visualization.apk.zip",
     "pwa_link": "",
@@ -461,7 +509,13 @@
     "name": "Celestial Satellite Tracker",
     "icon": "icon.webp",
     "category": "Education",
-    "carousel_assets": ["1.webp", "2.webp", "3.webp", "4.webp", "5.webp"],
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp"
+    ],
     "base_url": "/apps/Celestial_Satellite_Tracker/",
     "file": "app/celestial-satellite-tracker.apk",
     "pwa_link": "",
@@ -475,7 +529,13 @@
     "name": "Liquid Galaxy Basic Controller",
     "icon": "icon.webp",
     "category": "Tools",
-    "carousel_assets": ["1.webp", "2.webp", "3.webp", "4.webp", "5.webp"],
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp"
+    ],
     "base_url": "/apps/Liquid_Galaxy_Basic_Controller/",
     "file": "app/",
     "pwa_link": "",
@@ -489,7 +549,12 @@
     "name": "Asteroids LG Retro Gaming",
     "icon": "icon.webp",
     "category": "Arcade",
-    "carousel_assets": ["1.webp", "2.webp", "3.webp", "4.webp"],
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp"
+    ],
     "base_url": "/apps/Asteroids_LG_Retro_Gaming/",
     "file": "app/Asteroids LG Retro Gaming_1.0.1.apk",
     "pwa_link": "",
@@ -524,7 +589,11 @@
     "name": "HAPIS",
     "icon": "icon.webp",
     "category": "Social",
-    "carousel_assets": ["1.webp", "2.webp", "3.webp"],
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp"
+    ],
     "base_url": "/apps/HAPIS/",
     "file": "app/",
     "pwa_link": "",
@@ -538,7 +607,13 @@
     "name": "Liquid Galaxy Retro Gaming",
     "icon": "icon.webp",
     "category": "Education",
-    "carousel_assets": ["1.webp", "2.webp", "3.webp", "4.webp", "5.webp"],
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp"
+    ],
     "base_url": "/apps/Liquid_Galaxy_Retro_Gaming/",
     "file": "app/LG_retro_gaming.apk",
     "pwa_link": "",
@@ -595,7 +670,13 @@
     "name": "Super Liquid Galaxy Controller",
     "icon": "icon.webp",
     "category": "Tools",
-    "carousel_assets": ["1.webp", "2.webp", "3.webp", "4.webp", "5.webp"],
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp"
+    ],
     "base_url": "/apps/Super_Liquid_Galaxy_Controller/",
     "file": "app/Super_Liquid_Galaxy_Controller.apk",
     "pwa_link": "",
@@ -741,5 +822,25 @@
     "android_OS": "13.0+",
     "version": "1.1.2",
     "content": "LG AIS Visualization is a tool designed to provide real-time tracking, detailed vessel information, predictive route analysis, and collision risk management. It is optimized for Liquid Galaxy systems, allowing seamless synchronization of maps between the rig and the app. The app can also function standalone, providing maritime insights based on open AIS data from the Norwegian Coastal Administration.\nKey features include:\nReal-Time Vessel Tracking: Monitor cargo ships, passenger vessels, tankers, fishing boats, and more.\nDetailed Vessel Information: Access data on vessel name, type, speed, course, and more.\nHistorical Route Playback: View past routes and analyze vessel movements.\nFuture Route Prediction: Predict potential future routes using historical data.\nCollision Risk Management: Calculate CPA and TCPA to assess collision risks.\nCustomizable Region Monitoring: Focus on specific areas and filter by vessel type or country."
+  },
+  {
+    "name": "LG Web App",
+    "icon": "icon.webp",
+    "category": "Tools",
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp"
+    ],
+    "base_url": "/apps/LG_Web_App/",
+    "file": "",
+    "pwa_link": "https://yashrajbharti.github.io/lg-web/",
+    "type": "pwa",
+    "date": "Jan 1, 2025",
+    "android_OS": "",
+    "version": "1.0.0",
+    "content": "An immersive Google Earth web application for Liquid Galaxy, this project is the first web-components-based web app ever created for the Liquid Galaxy project. It offers innovative ways to control Google Earth and send KML data for immersive data visualization."
   }
 ]
