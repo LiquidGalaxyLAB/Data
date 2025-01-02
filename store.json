@@ -840,7 +840,7 @@
     "type": "PWA",
     "date": "Jan 1, 2025",
     "android_OS": "",
-    "version": "1.0.0",
+    "version": "",
     "content": "An immersive Google Earth web application for Liquid Galaxy, this project is the first web-components-based web app ever created for the Liquid Galaxy project. It offers innovative ways to control Google Earth and send KML data for immersive data visualization."
   }
 ]
