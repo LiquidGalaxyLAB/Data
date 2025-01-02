@@ -837,7 +837,7 @@
     "base_url": "/apps/LG_Web_App/",
     "file": "",
     "pwa_link": "https://yashrajbharti.github.io/lg-web/",
-    "type": "pwa",
+    "type": "PWA",
     "date": "Jan 1, 2025",
     "android_OS": "",
     "version": "1.0.0",
