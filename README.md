@@ -4,6 +4,7 @@
 This repository contains data for the Liquid Galaxy LAB App Store. It is designed to store data for various apps, including their APK files, images, and associated information.
 
 ## Repo Structure
+
 The repository follows this structure:
 
 ```
@@ -29,6 +30,7 @@ store.json
 1. **Manual App Addition**
    - Apps from APKPure need to be manually added to the repository.
    - Each app should have its own folder under `apps/`. The folder structure should look like:
+
      ```
      apps/
        └── <app_name>/
@@ -44,6 +46,7 @@ store.json
 
 3. **Adding Data to `store.json`**
    - Add an entry for the app in `store.json`. Follow this structure:
+
      ```json
      {
          "name": "<app_name>",
@@ -64,7 +67,18 @@ store.json
          "content": "<detailed_app_description>"
      }
      ```
+
+   - App name should follow the 32 character limit.
    - Be sure to properly format the app description with `/n` for new lines.
+   - Categories can be the following:
+      - Education
+      - Tools
+      - Maps & Navigation
+      - Travel & Local
+      - Auto & Vehicles
+      - Arcade
+      - Strategy
+      - Social
 
 4. **Pull Requests**
    - All changes should be made via **Pull Requests (PR)**.
@@ -111,6 +125,6 @@ La Palma Volcano Eruption Tracking Tool is an app built on the Flutter framework
 - Ensure that the `store.json` file remains properly formatted and doesn’t contain any errors.
 - Make sure all APK files are within the size limits (below 100 MB), as larger files will not be accepted by GitHub.
 
-## Thank You for Contributing!
+## Thank You for Contributing
 
 Your contributions help the Liquid Galaxy LAB community. We appreciate your efforts to keep the app store up to date with new apps and content.
