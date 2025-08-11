@@ -842,5 +842,25 @@
     "android_OS": "",
     "version": "1.0.0",
     "content": "An immersive Google Earth web application for Liquid Galaxy, this project is the first web-components-based web app ever created for the Liquid Galaxy project. It offers innovative ways to control Google Earth and send KML data for immersive data visualization."
+  },
+  {
+    "name": "DATA Spaces Visualization LG",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp"
+    ],
+    "base_url": "/apps/DATA_Spaces_Visualization_LG/",
+    "file": "app/DATA Spaces Visualization For LG_1.0.0.apk",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Aug 11, 2025",
+    "android_OS": "14.0+",
+    "version": "1.0.0",
+    "content": "Visualize Data Spaces information on Liquid Galaxy displays.\n\nDATA Spaces Visualization for Liquid Galaxy connects to FIWARE Data Spaces APIs and displays spatial data on Liquid Galaxy's immersive visualization system.\n\nThe app connects to EMT Málaga's Data Space for real-time bus locations, Santander's environmental sensors Data Space for weather and noise monitoring data, and pig farm data from Lleida. All data is displayed on Google Maps with real-time updates. Users can send this data to Liquid Galaxy through secure SSH connections for synchronized visualization across multiple displays.\n\nKey features include real-time data visualization from multiple sources, Google Maps integration, Liquid Galaxy connectivity with KML generation, data management with refresh intervals and filtering, and a user-friendly interface with colorblind mode support.\n\nThis app was developed by Marc Bañeres Farrán as part of Google Summer of Code 2025 with the Liquid Galaxy Project Organization.\n\nGitHub Repository: https://github.com/LiquidGalaxyLAB/DATA-Spaces-for-LG-Frontend"
   }
 ]
