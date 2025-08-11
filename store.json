@@ -925,5 +925,26 @@
     "android_OS": "13.0+",
     "version": "1.0.1",
     "content": "Visualize Martian climate data in real time.\nSupports AI insights. GitHub url: https://github.com/LiquidGalaxyLAB/Martian-Climate-Dashboard/"
+  },
+  {
+    "name": "Eco Explorer for Liquid Galaxy",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp",
+      "6.webp"
+    ],
+    "base_url": "/apps/EcoExplorerForLiquidGalaxy/",
+    "file": "app/Eco Explorer for Liquid Galaxy_1.0.0.apk",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Aug 11, 2025",
+    "android_OS": "13.0+",
+    "version": "1.0.0",
+    "content": "Eco Explorer for Liquid Galaxy provides a master interface that showcases a dashboard of various expansive forests around the globe and allows users to explore them in depth.\nThe application provides features like Virtual Tour, Biodiversity Display, Graphical Visualizations and Catastrope Status of the forests.\nIt works with Liquid Galaxy rig to provide immersive and education experience to your virtual forest disovery."
   }
 ]
