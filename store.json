@@ -968,5 +968,24 @@
     "android_OS": "13.0+",
     "version": "1.0.0",
     "content": "Control Robots with Voice Commands using Liquid Galaxy. It combines Speech-to-Text, a LLM model and Automated Planning to build the movement path of the robot. Github URL: https://github.com/LiquidGalaxyLAB/LG-Voice-Driven-Robot-Goal-Assignment-System"
+  },
+  {
+    "name": "LG Airport Controller Simulator",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp"
+    ],
+    "base_url": "/apps/LG-Airport-Controller-Simulator/",
+    "file": "app/LG_Airport_simulator_controller_GO_Store.apk",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Aug 11, 2025",
+    "android_OS": "13.0+",
+    "version": "1.0.0",
+    "content": "Air traffic controller game. GitHub url: https://github.com/LiquidGalaxyLAB/LG-Airport-Controller-Simulator"
   }
 ]
