@@ -917,7 +917,7 @@
       "5.webp",
       "6.webp"
     ],
-    "base_url": "/apps/Martian_Climate_Dashboard/",
+    "base_url": "/apps/MartianClimateDashboard/",
     "file": "app/martian_climate_dashboard_1.0.1.apk",
     "pwa_link": "",
     "type": "app",
