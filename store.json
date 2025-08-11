@@ -946,5 +946,27 @@
     "android_OS": "13.0+",
     "version": "1.0.0",
     "content": "Eco Explorer for Liquid Galaxy provides a master interface that showcases a dashboard of various expansive forests around the globe and allows users to explore them in depth.\nThe application provides features like Virtual Tour, Biodiversity Display, Graphical Visualizations and Catastrope Status of the forests.\nIt works with Liquid Galaxy rig to provide immersive and education experience to your virtual forest disovery. GitHub url: https://github.com/LiquidGalaxyLAB/Eco-Explorer"
+  },
+  {
+    "name": "Voice Driven Robots",
+    "icon": "icon.webp",
+    "category": "Tools",
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp",
+      "6.webp",
+      "7.webp"
+    ],
+    "base_url": "/apps/VoiceDrivenRobots/",
+    "file": "app/VoiceDrivenRobots_1.0.0.apk",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Aug 11, 2025",
+    "android_OS": "13.0+",
+    "version": "1.0.0",
+    "content": "Control Robots with Voice Commands using Liquid Galaxy. It combines Speech-to-Text, a LLM model and Automated Planning to build the movement path of the robot. Github URL: https://github.com/LiquidGalaxyLAB/LG-Voice-Driven-Robot-Goal-Assignment-System"
   }
 ]
