@@ -904,5 +904,26 @@
     "android_OS": "13.0+",
     "version": "1.0.0",
     "content": "Provides real time controls to Robots in Liquid Galaxy through ROS2 and Gazebo.\n\nCommunicates to other devices in same network through websockets.\n\nGithub url: https://github.com/LiquidGalaxyLAB/LG-Robotics-Simulation-with-Gazebo"
+  },
+  {
+    "name": "Martian Climate Dashboard",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp",
+      "6.webp"
+    ],
+    "base_url": "/apps/Martian_Climate_Dashboard/",
+    "file": "app/martian_climate_dashboard_1.0.1.apk",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Aug 11, 2025",
+    "android_OS": "13.0+",
+    "version": "1.0.1",
+    "content": "Visualize Martian climate data in real time.\nSupports AI insights. GitHub url: https://github.com/LiquidGalaxyLAB/Martian-Climate-Dashboard/"
   }
 ]
