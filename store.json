@@ -883,5 +883,26 @@
     "android_OS": "13.0+",
     "version": "3.1.0",
     "content": "A starter template for a Liquid Galaxy Flutter application.\n\nGitHub url: https://github.com/LiquidGalaxyLAB/LG-Master-Web-App"
+  },
+  {
+    "name": "RoboSimLG",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp",
+      "6.webp"
+    ],
+    "base_url": "/apps/Robo_Sim_LG/",
+    "file": "app/RoboSimLG_1.0.0.apk",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Aug 11, 2025",
+    "android_OS": "13.0+",
+    "version": "1.0.0",
+    "content": "Provides real time controls to Robots in Liquid Galaxy through ROS2 and Gazebo.\n\nCommunicates to other devices in same network through websockets.\n\nGithub url: https://github.com/LiquidGalaxyLAB/LG-Robotics-Simulation-with-Gazebo"
   }
 ]
