@@ -1010,5 +1010,27 @@
     "android_OS": "13.0+",
     "version": "1.0.0",
     "content": "Explore and visualize Google's comprehensive Open Buildings dataset with unprecedented precision and interactive functionality.\nThis powerful visualization tool transforms complex geospatial building data into an intuitive, user-friendly experience that brings global infrastructure to life.\n\nKey Features:\n• Interactive Grid-Based Exploration: Select specific regions using intelligent overlay grids to analyze building density and patterns in any area worldwide\n• Curated Preset Locations: Instantly navigate to famous cities, monuments, and landmarks across the globe with pre-configured optimal viewing angles\n• Advanced Building Analytics: Access detailed building footprint data including area measurements, confidence scores, and polygon coordinates from Google's research-grade dataset\n• Dual Navigation Modes: Switch between structured grid-based analysis and free exploration mode for unlimited map navigation without restrictions\n• Real-Time Liquid Galaxy Integration: Seamlessly broadcast your discoveries to Liquid Galaxy systems for immersive 3D presentations and collaborative viewing experiences\n• Multi-Language Support: Available in 9 languages including English, Spanish, French, Portuguese, Hindi, Bengali, Indonesian, Swahili, and Vietnamese\n• Enhanced Search Capabilities: Find any location worldwide with intelligent search suggestions and preset filtering by categories\n\nPerfect for researchers studying urban development patterns, educators teaching geography and urban planning, city planners analyzing infrastructure density, students exploring global architecture, and anyone fascinated by the built environment around us.\n\nThe app leverages Google's Open Buildings V3 dataset containing millions of building footprints with machine learning-derived confidence scores, making it an invaluable tool for academic research, urban studies, and educational demonstrations.\n\nWhether you're conducting scientific research, preparing educational presentations, or simply exploring the world's architectural landscape, Open Buildings Visualizer provides the tools and insights you need to understand global building patterns like never before.\n\nGithub url: https://github.com/LiquidGalaxyLAB/Google-Research-Open-Buildings-Data-Visualization"
+  },
+  {
+    "name": "GeoVisionAI",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp",
+      "6.webp",
+      "7.webp"
+    ],
+    "base_url": "/apps/GeoVisionAI/",
+    "file": "",
+    "pwa_link": "https://liquidgalaxylab.github.io/LG-GeoVisionAI/",
+    "type": "PWA",
+    "date": "Aug 12, 2025",
+    "android_OS": "",
+    "version": "1.0.0",
+    "content": "AI-powered geospatial storytelling web app for Liquid Galaxy.\n\nGitHub URL: https://github.com/LiquidGalaxyLAB/LG-GeoVisionAI"
   }
 ]
