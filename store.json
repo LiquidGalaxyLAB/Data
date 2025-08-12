@@ -1032,5 +1032,28 @@
     "android_OS": "",
     "version": "1.0.0",
     "content": "AI-powered geospatial storytelling web app for Liquid Galaxy.\n\nGitHub URL: https://github.com/LiquidGalaxyLAB/LG-GeoVisionAI"
+  },
+  {
+    "name": "RoboStream",
+    "icon": "icon.webp",
+    "category": "Tools",
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp",
+      "6.webp",
+      "7.webp",
+      "8.webp"
+    ],
+    "base_url": "/apps/RoboStream/",
+    "file": "app/robostream.apk",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Aug 12, 2025",
+    "android_OS": "12.0+",
+    "version": "1.0.0",
+    "content": "RoboStream connects real or simulated robots to the Liquid Galaxy, enabling real-time visualization of telemetry and camera feeds in both the Liquid Galaxy and the mobile app.\n\nGitHub URL: https://github.com/LiquidGalaxyLAB/LG-RoboStream"
   }
 ]
