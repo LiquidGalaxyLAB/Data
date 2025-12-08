@@ -1060,5 +1060,26 @@
     "android_OS": "12.0+",
     "version": "1.0.0",
     "content": "RoboStream connects real or simulated robots to the Liquid Galaxy, enabling real-time visualization of telemetry and camera feeds in both the Liquid Galaxy and the mobile app.\n\nGitHub URL: https://github.com/LiquidGalaxyLAB/LG-RoboStream"
+  },
+  {
+    "name": "COVID-19 Data Explorer",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp",
+      "6.webp"
+    ],
+    "base_url": "/apps/COVID-19_Data_Explorer/",
+    "file": "app/COVID-19_Data_Explorer_1.0.1.apk",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Aug 14, 2023",
+    "android_OS": "7.0+",
+    "version": "1.0.1",
+    "content": "Global data visualizer about COVID-19.\nThe COVID-19 data explorer was designed to search, analyze and show various data about the coronavirus pandemic in one place, so that the user can clearly view the selected information, either through the dashboard through the graphics with global information, continental information or of each country in a specific continent, or through visualization in a liquid galaxy RIG through polygons with different heights and labels representing each country and the data referring to it."
   }
 ]
