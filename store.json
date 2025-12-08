@@ -592,15 +592,20 @@
     "carousel_assets": [
       "1.webp",
       "2.webp",
-      "3.webp"
+      "3.webp",
+      "4.webp",
+      "5.webp",
+      "6.webp",
+      "7.webp",
+      "8.webp"
     ],
     "base_url": "/apps/HAPIS/",
-    "file": "app/",
+    "file": "app/HAPIS-v3.0.0.apk",
     "pwa_link": "",
     "type": "app",
-    "date": "Jul 26, 2022",
+    "date": "Aug 21, 2023",
     "android_OS": "6.0+",
-    "version": "1.1.0",
+    "version": "3.0.0",
     "content": "Homeless Aid Panoramic Interactive System\nThis app is a social net to contact people with homeless and help them"
   },
   {
