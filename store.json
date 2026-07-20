@@ -209,7 +209,7 @@
       "3.webp"
     ],
     "base_url": "/apps/CropDoc/",
-    "file": "/app/CropDoc1.0.0.apk",
+    "file": "app/CropDoc1.0.0.apk",
     "pwa_link": "",
     "type": "app",
     "date": "2022-09-11",
@@ -252,7 +252,7 @@
       "7.webp"
     ],
     "base_url": "/apps/Gemini_AI_Touristic_tool/",
-    "file": "/app/Gemini AI Touristic tool_1.0.12.apk",
+    "file": "app/Gemini AI Touristic tool_1.0.12.apk",
     "pwa_link": "",
     "type": "app",
     "date": "Aug 13, 2024",
@@ -577,7 +577,7 @@
       "6.webp"
     ],
     "base_url": "/apps/LG_Space_Chess/",
-    "file": "/app/Space Chess-1.0.0.apk",
+    "file": "app/Space Chess-1.0.0.apk",
     "pwa_link": "",
     "type": "app",
     "date": "Aug 23, 2022",
