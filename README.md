@@ -41,7 +41,9 @@ store.json
 
 2. **Adding Images**
    - All images should be converted to **WebP** format to ensure optimal storage and performance.
-   - Rename the images sequentially as `1.webp`, `2.webp`, `3.webp`, etc.
+   - The app icon must be a **square shape**, ideally 512x512 pixels.
+   - All carousel images must be of the **same size** (consistent dimensions).
+   - Rename the carousel images sequentially as `1.webp`, `2.webp`, `3.webp`, etc.
    - Only high-quality photos should be included.
 
 3. **Adding Data to `store.json`**
@@ -80,10 +82,9 @@ store.json
       - Strategy
       - Social
 
-4. **Pull Requests**
-   - All changes should be made via **Pull Requests (PR)**.
-   - Each PR should contain **one APK file**, **one set of images**, and **the corresponding JSON entry**.
-   - Ensure that all images are converted and renamed before submitting the PR.
+4. **Submission Methods**
+   - **Pull Requests (PR):** You can directly submit your application by making a PR. You may use tools like Antigravity to help you. Each PR should contain **one APK file**, **one set of images**, and **the corresponding JSON entry**. Ensure that all images are converted and renamed before submitting.
+   - **Google Drive:** Alternatively, organize your content in a Google Drive folder (the same root directory used for your GSoC project). Include the APK, images, and JSON data, so mentors can help add it to the Go Web Store.
 
 5. **Review Process**
    - Each PR will be reviewed before being merged. Contributors should ensure that all files are named correctly, formatted properly, and meet the repository's standards.
@@ -123,7 +124,7 @@ La Palma Volcano Eruption Tracking Tool is an app built on the Flutter framework
 
 - Changes should only be made **one at a time**. This means that for each pull request, you should include one APK, one set of images, and one JSON data entry.
 - Ensure that the `store.json` file remains properly formatted and doesn’t contain any errors.
-- Make sure all APK files are within the size limits (below 100 MB), as larger files will not be accepted by GitHub.
+- Make sure all APK files are ideally **under 50 MB**. While GitHub allows up to 100 MB, larger files usually indicate unoptimized assets or debug builds. Ensure you submit a **release build**. Consider splitting the package if necessary.
 
 ## Thank You for Contributing
 
