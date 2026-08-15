@@ -1041,5 +1041,25 @@
     "android_OS": "7.0+",
     "version": "1.0.1",
     "content": "Global data visualizer about COVID-19.\nThe COVID-19 data explorer was designed to search, analyze and show various data about the coronavirus pandemic in one place, so that the user can clearly view the selected information, either through the dashboard through the graphics with global information, continental information or of each country in a specific continent, or through visualization in a liquid galaxy RIG through polygons with different heights and labels representing each country and the data referring to it."
+  },
+  {
+    "name": "LG Interactive Onboarding",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp"
+    ],
+    "base_url": "/apps/LG_Interactive_Onboarding/",
+    "file": "app/LG_Interactive_Onboarding_1.0.0.apk",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Aug 15, 2026",
+    "android_OS": "9.0+",
+    "version": "1.0.0",
+    "content": "LG Interactive Onboarding is a comprehensive application that lowers the barrier to entry for using Liquid Galaxy rigs by providing an intuitive, interactive interface.\nIt offers a gamified curriculum to teach users about Liquid Galaxy features, and acts as a centralized dashboard for rig state management and SSH control.\nA standout feature is the no-code 3D Model Builder, which empowers users to easily import, manipulate, and project custom COLLADA (.dae) and .kmz models. It features drag-and-drop geospatial placement on an interactive OpenStreetMap view, fine-grained orientation controls (heading, tilt, and roll), and one-click deployment to the rig with automatic KML packaging.\nAdditional features include an interactive Curriculum Engine with auto-verification, a KML Playground for live experimentation, an Architecture Explorer for system documentation, and an AI mentor for contextual assistance.\n\nContributor: Darpan Baviskar\nMentors: Andreu Ibañez, Óscar Carrasco, Deniz Yuksel\nRepository: https://github.com/LiquidGalaxyLAB/lg-interactive-onboarding"
   }
 ]
