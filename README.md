@@ -59,8 +59,8 @@ store.json
              "<image_2>.webp",
              ...
          ],
-         "base_url": "./apps/<app_name>/",
-         "file": "/app/<app_name>_<version>.apk",
+         "base_url": "/apps/<app_name>/",
+         "file": "app/<app_name>_<version>.apk",
          "pwa_link": "",
          "type": "app",
          "date": "<release_date>",
@@ -109,7 +109,7 @@ Here is an example of how an app entry should look in the `store.json` file:
         "8.webp"
     ],
     "base_url": "/apps/La_Palma_VolTrac/",
-    "file": "/app/La Palma Volcano Tracking Tool_1.0.0.apk",
+    "file": "app/La Palma Volcano Tracking Tool_1.0.0.apk",
     "pwa_link": "",
     "type": "app",
     "date": "Dec 29, 2022",
