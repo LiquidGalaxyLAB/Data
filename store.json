@@ -1183,10 +1183,10 @@
       "5.webp"
     ],
     "base_url": "/apps/GeoSaurio/",
-    "file": "app/GeoSaurio_1.0.0.apk",
+    "file": "app/GeoSaurio_1.0.0.apk.zip",
     "pwa_link": "",
     "type": "app",
-    "date": "Aug 16, 2026",
+    "date": "Aug 17, 2026",
     "android_OS": "6.0+",
     "version": "1.0.0",
     "content": "GeoSaurio is an interactive educational application developed for Liquid Galaxy that allows users to discover and explore dinosaurs from different geological periods around the world.\n\nThe application lets users explore dinosaurs by geological period, continent and country, displaying their geographic locations directly on the Liquid Galaxy rig. Users can navigate between dinosaur locations, visualize markers and detailed information, and perform 360-degree camera orbits around selected locations.\n\nFeatures:\n- Explore dinosaurs from the Triassic, Jurassic and Cretaceous periods\n- Navigate dinosaurs by continent and country\n- Fly to dinosaur locations on the Liquid Galaxy rig\n- Display geographic markers and detailed dinosaur information\n- Perform 360-degree camera orbits around dinosaur locations\n- Listen to audio narrations with information about each dinosaur\n- Display dinosaur skeleton visualizations across the Liquid Galaxy screens\n- Show size comparison visualizations for selected dinosaurs\n- Explore dinosaur locations through an interactive map synchronized with Liquid Galaxy\n- Connect to and control a Liquid Galaxy rig through SSH\n- Access Liquid Galaxy system tools and controls\n- Switch between light and dark themes\n\nGeoSaurio was developed as part of Google Summer of Code 2026 with the Liquid Galaxy Project organization."
