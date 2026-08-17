@@ -1170,5 +1170,25 @@
     "android_OS": "7.0+",
     "version": "1.0.0",
     "content": "AI Tour Director turns a single prompt into a narrated, cinematic tour on a Liquid Galaxy rig.\n\nType a theme like \"Historic forts of India\" and an AI model picks real landmarks; the app geocodes them, fetches imagery, builds KML, and flies the rig's Google Earth through each stop with narration and an on-screen info card. Everything runs on-device with no backend.\n\nFeatures:\n- Natural-language prompt to a curated set of real landmarks\n- Bring-your-own AI model (any OpenAI-compatible endpoint)\n- Smooth 360-degree cinematic orbit around each landmark\n- On-device companion view with text-to-speech narration and subtitles\n- Connect to a Liquid Galaxy rig over SSH, or scan a QR code\n- Info balloon, logo overlay, and 3D landmark ring on the rig\n- Save, replay, and export tours as KML\n- Optional AI Film: generate a short cinematic video of the tour\n- 8 languages, with light and dark themes\n\nThis project was developed as a Google Summer of Code 2026 project with the Liquid Galaxy Project Organization.\n\nContributor: Kabir Singh Khanuja\nMentors: Yash Raj Bharti, Vedant Singh\nLiquid Galaxy Project Org Director: Andreu Ibanez\nRepository: https://github.com/LiquidGalaxyLAB/lg-ai-tour-director"
+  },
+  {
+    "name": "GeoSaurio",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp"
+    ],
+    "base_url": "/apps/GeoSaurio/",
+    "file": "app/GeoSaurio_1.0.0.apk.zip",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Aug 17, 2026",
+    "android_OS": "6.0+",
+    "version": "1.0.0",
+    "content": "GeoSaurio is an interactive educational application developed for Liquid Galaxy that allows users to discover and explore dinosaurs from different geological periods around the world.\n\nThe application lets users explore dinosaurs by geological period, continent and country, displaying their geographic locations directly on the Liquid Galaxy rig. Users can navigate between dinosaur locations, visualize markers and detailed information, and perform 360-degree camera orbits around selected locations.\n\nFeatures:\n- Explore dinosaurs from the Triassic, Jurassic and Cretaceous periods\n- Navigate dinosaurs by continent and country\n- Fly to dinosaur locations on the Liquid Galaxy rig\n- Display geographic markers and detailed dinosaur information\n- Perform 360-degree camera orbits around dinosaur locations\n- Listen to audio narrations with information about each dinosaur\n- Display dinosaur skeleton visualizations across the Liquid Galaxy screens\n- Show size comparison visualizations for selected dinosaurs\n- Explore dinosaur locations through an interactive map synchronized with Liquid Galaxy\n- Connect to and control a Liquid Galaxy rig through SSH\n- Access Liquid Galaxy system tools and controls\n- Switch between light and dark themes\n\nGeoSaurio was developed as part of Google Summer of Code 2026 with the Liquid Galaxy Project organization."
   }
 ]
