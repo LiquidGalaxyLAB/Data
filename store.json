@@ -1150,5 +1150,25 @@
     "android_OS": "7.0+",
     "version": "1.0.0",
     "content": "LG RPG is a real-time multiplayer 2D fantasy RPG built for the Liquid Galaxy platform.\n\nThe game world is rendered across every screen of the rig by a Node.js and Socket.IO server that serves a Phaser web client, while each player joins and plays from their own Android phone using this Flutter controller app. The same app also manages the rig over SSH, so a match can be started, played and shut down without ever touching the Liquid Galaxy master.\n\nFeatures:\n- Real-time multiplayer gameplay rendered across all Liquid Galaxy screens\n- On-screen joystick, attack and special-attack controls with haptic feedback\n- Zombie Mode: survive waves of enemies together and fight the dragon boss\n- PvP Zone Capture Mode: two teams compete to hold capture zones for points\n- Loadout screen to pick a character and up to four power-up and health items, each with its own cooldown\n- Live match leaderboard and match results rendered directly on the rig\n- AI cheerleader that gives live spoken commentary on the match\n- Google Earth sync page to fly to locations with 3D KML and orbit\n- LG Tasks: show logo, clean KML, relaunch and reboot the rig\n- Full rig control over SSH: start and stop the game server, launch and close the browsers on 3 or 5 screens\n\nThis project was developed as a Google Summer of Code 2026 project with the Liquid Galaxy Project Organization.\n\nContributor: Shailesh Kumar Shukla\nMentors: VictorSB, Prayag X\nLiquid Galaxy Project Org Director: Andreu Ibanez\nRepository: https://github.com/LiquidGalaxyLAB/lg-rpg"
+  },
+  {
+    "name": "AI Tour Director",
+    "icon": "icon.webp",
+    "category": "Travel & Local",
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp"
+    ],
+    "base_url": "/apps/AITourDirector/",
+    "file": "app/AITourDirector-gsoc2026.apk",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Aug 17, 2026",
+    "android_OS": "7.0+",
+    "version": "1.0.0",
+    "content": "AI Tour Director turns a single prompt into a narrated, cinematic tour on a Liquid Galaxy rig.\n\nType a theme like \"Mughal forts of India\" and an AI model picks real landmarks; the app geocodes them, fetches imagery, builds KML, and flies the rig's Google Earth through each stop with narration and an on-screen info card. Everything runs on-device with no backend.\n\nFeatures:\n- Natural-language prompt to a curated set of real landmarks\n- Bring-your-own AI model (any OpenAI-compatible endpoint)\n- Smooth 360-degree cinematic orbit around each landmark\n- On-device companion view with text-to-speech narration and subtitles\n- Connect to a Liquid Galaxy rig over SSH, or scan a QR code\n- Info balloon, logo overlay, and 3D landmark ring on the rig\n- Save, replay, and export tours as KML\n- Optional AI Film: generate a short cinematic video of the tour\n- 8 languages, with light and dark themes\n\nThis project was developed as a Google Summer of Code 2026 project with the Liquid Galaxy Project Organization.\n\nContributor: Kabir Singh Khanuja\nMentors: Yash Raj Bharti, Vedant Singh\nLiquid Galaxy Project Org Director: Andreu Ibanez\nRepository: https://github.com/KabirKhanuja/lg-ai-tour-director"
   }
 ]
