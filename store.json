@@ -1170,5 +1170,25 @@
     "android_OS": "7.0+",
     "version": "1.0.0",
     "content": "AI Tour Director turns a single prompt into a narrated, cinematic tour on a Liquid Galaxy rig.\n\nType a theme like \"Mughal forts of India\" and an AI model picks real landmarks; the app geocodes them, fetches imagery, builds KML, and flies the rig's Google Earth through each stop with narration and an on-screen info card. Everything runs on-device with no backend.\n\nFeatures:\n- Natural-language prompt to a curated set of real landmarks\n- Bring-your-own AI model (any OpenAI-compatible endpoint)\n- Smooth 360-degree cinematic orbit around each landmark\n- On-device companion view with text-to-speech narration and subtitles\n- Connect to a Liquid Galaxy rig over SSH, or scan a QR code\n- Info balloon, logo overlay, and 3D landmark ring on the rig\n- Save, replay, and export tours as KML\n- Optional AI Film: generate a short cinematic video of the tour\n- 8 languages, with light and dark themes\n\nThis project was developed as a Google Summer of Code 2026 project with the Liquid Galaxy Project Organization.\n\nContributor: Kabir Singh Khanuja\nMentors: Yash Raj Bharti, Vedant Singh\nLiquid Galaxy Project Org Director: Andreu Ibanez\nRepository: https://github.com/LiquidGalaxyLAB/lg-ai-tour-director"
+  },
+  {
+    "name": "LG City Historic Engine",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp"
+    ],
+    "base_url": "apps/LG_City_Historic_Engine/",
+    "file": "app/apk_lg_city_historic_engine.zip",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Aug 17, 2026",
+    "android_OS": "7.0+",
+    "version": "1.0.0",
+    "content": "City Historic Engine is an application designed to provide historical and cultural information about different cities, in my case I did Lleida. The main objective of the project is to make relevant information about the heritage, history, and historical events of different cities more accessible, using the visualization and interaction capabilities of Liquid Galaxy."
   }
 ]

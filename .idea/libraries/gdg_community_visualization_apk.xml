@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gdg-community-visualization.apk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/apps/GDG_Community_Visualization/app/gdg-community-visualization.apk.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

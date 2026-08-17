@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RAS">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/apps/RAS/app/RAS.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
