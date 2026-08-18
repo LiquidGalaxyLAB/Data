@@ -1228,6 +1228,7 @@
     "type": "app",
     "date": "Aug 18, 2026",
     "android_OS": "7.0+",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "content": "The main goal of the City Historic Engine project is to develop an application that provides historical and cultural information about a city. The application aims to offer users a simple and interactive way to discover important historical places, such as churches, cathedrals, museums, and other points of interest. For this project, the chosen city is Lleida.\n##Relevant Links\nSource Repository: LG City Historic Engine\n##Contributor & Mentors\nContributor: Yasmina Ramadan Sevdanova\nMentors: Claudia Diosan"
   }
 ]
