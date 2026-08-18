@@ -1209,5 +1209,25 @@
     "android_OS": "7.0+",
     "version": "1.0.0",
     "content": "This is a demo application produced by the Hermes Agent's Liquid Galaxy Agent profile which is a GSoC 2026 Project.\nMentee: Harsh Mehta\n Mentors: Andreu Ibáñez, Moisés Martínez"
+  },
+  {
+    "name": "LG City Historic Engine",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp",
+      "6.webp"
+    ],
+    "base_url": "/apps/LG_city_historic_engine/",
+    "file": "app/LG_City_Historic_Engine.apk.zip",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Aug 18, 2026",
+    "android_OS": "7.0+",
+    "version": "1.0.0"
   }
 ]
