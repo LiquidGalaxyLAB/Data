@@ -1209,5 +1209,68 @@
     "android_OS": "7.0+",
     "version": "1.0.0",
     "content": "This is a demo application produced by the Hermes Agent's Liquid Galaxy Agent profile which is a GSoC 2026 Project.\nMentee: Harsh Mehta\n Mentors: Andreu Ibáñez, Moisés Martínez"
+  },
+  {
+    "name": "LG City Historic Engine",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp",
+      "6.webp"
+    ],
+    "base_url": "/apps/LG_city_historic_engine/",
+    "file": "app/LG_City_Historic_Engine.apk.zip",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Aug 18, 2026",
+    "android_OS": "7.0+",
+    "version": "1.0.0",
+    "content": "The main goal of the City Historic Engine project is to develop an application that provides historical and cultural information about a city. The application aims to offer users a simple and interactive way to discover important historical places, such as churches, cathedrals, museums, and other points of interest. For this project, the chosen city is Lleida.\n\nRelevant Links\nSource Repository: https://github.com/LiquidGalaxyLAB/lg-city-historic-engine\n\nContributor & Mentors\nContributor: Yasmina Ramadan Sevdanova\nMentors: Claudia Diosan"
+  },
+  {
+    "name": "Liquid Galaxy Time Machine",
+    "icon": "icon.webp",
+    "category": "Explore & Travel",
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp",
+      "6.webp",
+      "7.webp"
+    ],
+    "base_url": "/apps/Liquid_Galaxy_Time_Machine/",
+    "file": "app/Liquid-Galaxy-Time-Machine.zip",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Aug 18, 2026",
+    "android_OS": "7.0+",
+    "version": "1.0.0",
+    "content": "Liquid Galaxy Time Machine is an interactive application designed to visualize the evolution of historical landmarks over time. Using the power of Liquid Galaxy, users can travel through past, present, and future eras, exploring how architecture and landscapes have transformed through immersive 3D visualizations and historical data.\nContributor: Jan Sánchez\nMentors: Andreu Ibañez, Alfredo Bautista\nRepository: https://github.com/LiquidGalaxyLAB/lg-time-machine"
+  },
+  {
+    "name": "The Shattered Banners",
+    "icon": "icon.webp",
+    "category": "Arcade",
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp"
+    ],
+    "base_url": "/apps/Shattered_Banners/",
+    "file": "",
+    "pwa_link": "https://rpg-game-liquid-galaxy.onrender.com/",
+    "type": "PWA",
+    "date": "Aug 20, 2026",
+    "android_OS": "",
+    "version": "1.0.0",
+    "content": "The Shattered Banners is a real-time roleplaying 2D fantasy RPG built for the Liquid Galaxy platform.\n\nAfter the fall of the White Banner, the kingdom has fractured into color-coded warring factions: the Blue River-Folk, the Yellow Desert Guard, the Purple Peaks Mystics, and the aggressive Red Warmongers. As the Awakened, you bear the ancient crest of the White Banner, making you the only one who can cross borders to unite the factions, defeat the corrupted Black Knights, and restore peace.\n\nGameplay features:\n- Multi-display panoramic views on the Liquid Galaxy rig (supports Left, Center, and Right display offsets).\n- Real-time combat against feral Goblins and elite Black Knights."
   }
 ]
