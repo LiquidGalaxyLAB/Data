@@ -1252,5 +1252,25 @@
     "android_OS": "7.0+",
     "version": "1.0.0",
     "content": "Liquid Galaxy Time Machine is an interactive application designed to visualize the evolution of historical landmarks over time. Using the power of Liquid Galaxy, users can travel through past, present, and future eras, exploring how architecture and landscapes have transformed through immersive 3D visualizations and historical data.\nContributor: Jan Sánchez\nMentors: Andreu Ibañez, Alfredo Bautista\nRepository: https://github.com/LiquidGalaxyLAB/lg-time-machine"
+  },
+  {
+    "name": "The Shattered Banners",
+    "icon": "icon.webp",
+    "category": "Arcade",
+    "carousel_assets": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp"
+    ],
+    "base_url": "/apps/Shattered_Banners/",
+    "file": "",
+    "pwa_link": "https://rpg-game-liquid-galaxy.onrender.com/",
+    "type": "PWA",
+    "date": "Aug 20, 2026",
+    "android_OS": "",
+    "version": "1.0.0",
+    "content": "The Shattered Banners is a real-time roleplaying 2D fantasy RPG built for the Liquid Galaxy platform.\n\nAfter the fall of the White Banner, the kingdom has fractured into color-coded warring factions: the Blue River-Folk, the Yellow Desert Guard, the Purple Peaks Mystics, and the aggressive Red Warmongers. As the Awakened, you bear the ancient crest of the White Banner, making you the only one who can cross borders to unite the factions, defeat the corrupted Black Knights, and restore peace.\n\nGameplay features:\n- Multi-display panoramic views on the Liquid Galaxy rig (supports Left, Center, and Right display offsets).\n- Real-time combat against feral Goblins and elite Black Knights."
   }
 ]
