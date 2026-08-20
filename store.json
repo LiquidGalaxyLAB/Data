@@ -1199,16 +1199,19 @@
       "1.webp",
       "2.webp",
       "3.webp",
-      "4.webp"
+      "4.webp",
+      "5.webp",
+      "6.webp",
+      "7.webp"
     ],
     "base_url": "/apps/Local_AI_with_Gemma_by_google/",
-    "file": "app/Local_AI_with_Gemma_by_google_1.0.0.apk",
+    "file": "app/demo_app_local_ai_with_gemma_by_google.apk",
     "pwa_link": "",
     "type": "app",
     "date": "Aug 18, 2026",
     "android_OS": "7.0+",
     "version": "1.0.0",
-    "content": "This is a demo application produced by the Hermes Agent's Liquid Galaxy Agent profile which is a GSoC 2026 Project.\nMentee: Harsh Mehta\n Mentors: Andreu Ibáñez, Moisés Martínez"
+    "content": "This is a demo application produced by the Hermes Agent's Liquid Galaxy Agent profile which is a GSoC 2026 Project.\nMentee: Harsh Mehta\nMentors: Andreu Ibáñez, Moísés Martínez"
   },
   {
     "name": "LG City Historic Engine",
